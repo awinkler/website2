@@ -36,8 +36,11 @@ section, #sec-landing {
 
 /*make the links grey in footer */
 footer {
-  background: rgba(210,210,210, 0.9); 
-  color: rgba(100,100,100,1.0);
+  /*font-size: 16px;*/
+  background: black;
+  /*background: rgba(210,210,210, 0.9); */
+  color: white;
+  /*color: rgba(100,100,100,1.0);*/
   text-align: center;
   height: 100%;
   padding-top: 2.5em;

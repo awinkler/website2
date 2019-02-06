@@ -1,0 +1,60 @@
+#myFooter {
+    background-color: #182c39;
+    color: white;
+    padding-top: 20px;
+    text-align: left;
+}
+
+#myFooter ul {
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+}
+
+#myFooter h5 {
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#myFooter a {
+    color: #d2d1d1;
+    text-decoration: none;
+}
+
+#myFooter a:hover,
+#myFooter a:focus {
+    text-decoration: none;
+    color: white;
+}
+
+#myFooter #copyright {
+    padding-top: 2em;
+    text-align: center;
+}
+
+@media screen and (max-width: 767px) {
+    #myFooter {
+        text-align: center;
+    }
+    #myFooter .row {
+        margin: 0;
+    }
+}
+
+#myFooter a {
+    color: white;
+}
+
+#about-img {
+    border-radius: 5px;
+    /*height: 150px;*/
+    /*height: 100%;*/
+}
+
+#about-map {
+    /*height: 100%;*/
+    border: 0;
+    border-radius: 5px;
+}
