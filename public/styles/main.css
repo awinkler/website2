@@ -1,0 +1,503 @@
+html { 
+  min-height: 100%; 
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.7;
+  /*color: black;*/
+  position: relative;
+}
+
+h1, h2 {
+  text-shadow: 3px 3px 3px rgba(0,0,0,0.1);
+}
+
+div.small {
+  font-size: small;
+  font-variant: small-caps;
+}
+
+img {
+  max-width: 100%;
+}
+
+section {
+  padding-top: 100px;
+  padding-bottom:100px;
+}
+
+section, #sec-landing {
+  background: -webkit-linear-gradient(to bottom, #ffffff, #e6e3e4);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #ffffff, #e6e3e4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+/*make the links grey in footer */
+footer {
+  background: rgba(210,210,210, 0.9); 
+  color: rgba(100,100,100,1.0);
+  text-align: center;
+  height: 100%;
+  padding-top: 2.5em;
+  padding-bottom: 1em;
+}
+
+footer a {
+  color: inherit;
+}
+
+
+.social {
+  margin: 0 0.7em;
+  white-space:nowrap;
+}
+
+
+.timestamp {
+  font-size: small;
+}
+
+
+/*==============Navbar================*/
+.navbar {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
+
+.navbar-bg {
+  background-color: rgba(40,40,40,0.95);
+  transition: all 1s;
+}
+
+.navbar-dark .navbar-nav .nav-link.active {
+  padding-bottom: 3px;
+  border-bottom: white 2px solid;
+  /*font-weight: 700;*/
+}
+
+/*Don't highlight non-important links in blue*/
+.link-secondary {
+  color: inherit;
+}
+
+
+/*==============Landing Page=============*/
+#sec-landing {
+  background-image: url(/images/robot_trim.jpg);
+  background-position: bottom left;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:100vh;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.terminal {
+  width: 95%;
+  max-width: 650px;
+  align-self: center;
+  border-radius: 10px;
+  box-shadow: 5px 5px 6px gray;
+  border: 2px gray solid;
+}
+
+@media (max-width: 768px) { 
+  .terminal {
+    align-self: flex-start;
+  }
+}
+
+
+
+
+.terminal-header {
+  color: rgb(20, 20, 20);
+  padding: 5px 0;
+  font-family: "Lucida Grande", sans-serif;
+  font-size: 0.75em;
+  text-align: center;
+  background-color: #f8f8f8;
+  border-radius: 5px 5px 0 0;
+}
+
+.terminal-body {
+  height: 100px;
+  background-color: rgba(0, 0, 0, 0.85);
+  padding: 10px;
+  color: #f0f0f0;
+  text-shadow: #000 0px 1px 0px;
+  font-family: "Consolas", "Courier New", "Courier";
+  font-size: 1.3em;
+  line-height: 1.40em;
+  font-weight: 500;
+  text-align: left;
+  overflow: hidden;
+  border-radius: 0 0 5px 5px;
+}
+
+#img-credit {
+  color: white;
+  position: absolute;
+  bottom: 10px;
+  right: 20px;
+}
+
+/*===============Arrow down animation=================*/
+.arrow {
+  text-align: center;
+  margin: 10px 0;
+  font-size: 10px;
+  position: absolute;
+  bottom: 10%;
+  left: 50%;
+}
+
+.arrow a {
+  color: rgba(0,0,0,0.5);
+}
+
+.arrow a:hover {
+  text-decoration: none;
+  cursor: auto;
+}
+
+.bounce {
+  -moz-animation: bounce 2s infinite;
+  -webkit-animation: bounce 2s infinite;
+  animation-name: bounce;
+  animation-duration: 2s;
+  animation-delay: 4s;
+}
+
+@keyframes bounce {
+
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-20px);
+  }
+  60% {
+    transform: translateY(-10px);
+  }
+}
+
+
+
+
+/*=================Research============*/
+.mylabel {
+  font-size: 1.0em;
+  margin: 1px 0;
+}
+
+.my-youtube {
+  border-radius: 5px;
+}
+
+.expand {
+  cursor: pointer;
+  color: gray;
+}
+
+#sec-research .card-img-top {
+  width: 100%;
+  object-fit: contain;
+  padding: 1em 1em 0 1em;
+  opacity: 0.9;
+}
+
+.clickable {
+  transition: all 50ms;
+  border-radius: 8px;
+  background-color: white;
+  height: 100%; /*to make columns all the way to bottom*/
+}
+
+/*raises class up with shadow when hovering*/
+.clickable:hover {
+  position: relative;
+  top: -5px;
+  box-shadow: 0px 4px 5px lightgray;
+  cursor: pointer;
+}
+
+#sec-research .card-title {
+  margin-bottom: 0.4em;
+}
+
+
+/*Small devices (landscape phones, 576px and up)
+Medium devices (tablets, 768px and up)
+Large devices (desktops, 992px and up)
+Extra large devices (large desktops, 1200px and up)*/
+@media (max-width: 768px) { 
+  #sec-research .card-text {
+    display: none;
+  }
+}
+
+#sec-research h4 {
+  margin-top: 2.8rem;
+  margin-bottom: 0.3rem;
+}
+
+#sec-research p {
+  margin-bottom: 0.5rem;
+}
+
+#runningGif {
+  margin-top: -1.0em;
+  padding: 0;
+}
+
+
+
+
+
+
+/*====================Software===========================*/
+code {
+  all: inherit; /*disable element*/
+  display: inline;
+}
+
+#sec-software .card-img-top {
+  height: 60px;
+  object-fit: contain;
+  margin-top: 1.5em;
+  opacity: 0.9;
+}
+
+#sec-software .card {
+  border-radius: 8px;
+  border-width: 1px;
+  text-align: center;
+  box-shadow: 5px 5px 10px lightgray;
+  height: 100%; /*to make all colums same height*/
+}
+
+/*# Style for bash scripts:*/
+.bash {
+ background-color: gray;
+ color: white;
+ font-family: Consolas,Monaco,Lucida Console,Liberation Mono,monospace;
+ font-size: 12px;
+ text-align: center;
+ padding: 3px 10px 3px 10px;
+ margin: 0;
+ border-radius: 4px;
+ text-align: left;
+ position: relative; /*set so btn uses this a reference*/
+}
+
+.btn-copy {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  color: white;
+  font-size: 13px;
+  padding: 0.5rem 0.3rem 0 0.3rem;
+  margin: 2px 2px;
+}
+
+.btn-copy:hover {
+  font-size: 13px;
+  /*font-weight: 600;*/
+  color: white;
+}
+
+.btn-copy:focus {
+  box-shadow: none;
+}
+
+.btn-hide {
+  color:lightgray;
+  font-size: 11px;
+  /*display: none;*/
+}
+
+
+
+
+
+
+
+/*================Blog preview====================*/
+/*#sec-publications {
+  background-image: url(https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Epic-Star-Wars-HD-Backgrounds-PIC-WPB006345.jpg);
+  background-image: url(https://www.wallpaperflare.com/static/610/258/513/minimalism-animals-birds-white-wallpaper.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  color: white;
+}*/
+
+/*So anchor on whole card doesn't change style*/
+a.nostyle:link, a.nostyle:visited {
+  text-decoration: inherit;
+  color: inherit;
+  cursor: auto;
+}
+
+#sec-blog .row {
+  margin-bottom: 20px;
+  background-color: transparent;
+}
+
+#sec-blog .post-preview {
+  background-color: rgba(255,255,255,0.9);
+  border: gainsboro 1px solid;
+  border-radius: 0.5rem;
+  margin: 0.25rem;
+  padding: 0;
+  height: 100%;
+}
+
+
+/*restrict height when viewed on cell phone*/
+@media (max-width: 768px) { 
+  .img-prev {
+    height: 12rem;
+  }
+}
+
+
+
+/*so image is cut to fit fixed aspect ration*/
+.img-prev img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 30%;
+  border-radius: 0.5rem;
+}
+
+.card-link:hover {
+  padding-left: 7px;
+  padding-right: 0px;
+  transition:  200ms;
+}
+
+.PageNavigation {
+  font-size: 0.8em;
+  text-transform: uppercase;
+  margin-top: 3em;
+  min-height: 3em; /*so doesn't collapse when only "next" (float)*/
+}
+
+.PageNavigation a {
+  color: inherit;
+}
+
+.PageNavigation .next {
+  float: right;
+  text-align: right;
+}
+
+
+
+
+
+/*==========BLOG POST============*/
+/*to center image captions from jekyll*/
+.blog {
+  font-size: 17px;
+  background-color: rgba(250,250,250, 1.0);
+  padding-bottom: 3em;
+}
+
+
+.figure-caption {
+  text-align: center;
+}
+
+.post-body .first-letter {
+  line-height: 90%;
+  font-size: 3.6em;
+  float: left;
+  font-family: serif;
+  font-weight: 500;
+  padding-top: 0;
+  padding-right: 5px;
+}
+
+.post-body {
+  margin-top: 2.0rem;
+}
+
+
+
+
+/*=========================The publication Lists=========================*/
+.publication-list a {
+  color: inherit;
+}
+
+.publication-list .bibbase_paper_title {
+  font-weight: bold;
+}
+
+.publication-list .fa-star {
+  color: #cccc00; /*#e6e600;*/
+}
+
+.publication-list .bibbase_paper {
+  margin-bottom: 0.7em;
+}
+
+img.bibbase_icon {
+    width: 20px;
+    max-height: 16px;
+    vertical-align: text-top;
+    
+
+    filter: url("data:image/svg+xml;utf8,<svg%20xmlns='http://www.w3.org/2000/svg'><filter%20id='grayscale'><feColorMatrix%20type='matrix'%20values='0.3333%200.3333%200.3333%200%200%200.3333%200.3333%200.3333%200%200%200.3333%200.3333%200.3333%200%200%200%200%200%201%200'/></filter></svg>#grayscale"); /* Firefox 3.5+ */
+    filter: grayscale(100%); /* Current draft standard */
+    -webkit-filter: grayscale(100%); /* New WebKit */
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%); 
+    -o-filter: grayscale(100%);
+    filter: gray; /* IE6+ */
+}
+
+img.bibbase_icon:hover {
+    filter: none;
+    -webkit-filter: grayscale(0);
+}
+
+.bibbase_code {
+    width: 80%
+}
+
+#bibbase.comment {
+    font-size: smaller;
+    font-style: italic;
+    color: gray;
+}
+
+.bibbase_msg {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.bibbase.well {
+    margin: 20px;
+    overflow-wrap: break-word;
+}
+
+.bibbase.link {
+    text-decoration: none;
+}
+
+.bibbase_paper_content {
+    font-size: smaller;
+}

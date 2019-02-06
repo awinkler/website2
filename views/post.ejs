@@ -1,0 +1,44 @@
+<% include ./partials/header %>
+
+<div class="blog"">
+<div class="container pb-1" style="padding-top: 80px; max-width: 700px;">
+ 
+  <% include ./partials/blog-page-nav %> 
+
+
+  <div class="post-header mt-5">
+    <div class="timestamp text-muted">
+      <%= post.date %> 
+      &nbsp;&middot;&nbsp; 
+      <%= post.time %>  min read
+    </div>
+
+    <h2><%= post.title %> </h2>
+
+    <h4><span class="text-muted"><%= post.subtitle %> </span></h4>
+  </div>
+
+  <div class="post-body">       
+    <%- post.content %> 
+  </div>
+
+  <% include ./partials/blog-page-nav %>
+
+  <hr class="mb-5">
+  <% include ./partials/comments %>
+  <% include ./partials/newsletter %>
+
+</div>
+</div>
+
+<% include ./partials/footer %>
+
+
+
+
+
+
+
+
+
+

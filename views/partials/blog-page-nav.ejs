@@ -1,0 +1,24 @@
+<div class="PageNavigation">
+  <% var idx = post.index; %>
+  <% if(idx>0) { %>
+    <% var prev = posts[idx-1] %>
+    <a class="prev" href="<%= prev.id() %>">
+      <i class="fas fa-angle-double-left fa-sm"></i> 
+    	<strong>Prev</strong> 
+    	<span class="d-none d-md-inline">
+        -&nbsp;<%= prev.title %>
+      </span>
+       
+    </a>
+  <% } %>
+  <% if(idx<posts.length-1) { %>
+    <% var next = posts[idx+1] %>
+    <a class="next" href="<%= next.id() %>">
+    	<span class="d-none d-md-inline">
+        <%= next.title %>&nbsp;-
+      </span>
+    	<strong>Next</strong>
+    	<i class="fas fa-angle-double-right fa-sm"></i> 
+    </a>
+  <% } %>
+</div>
