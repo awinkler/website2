@@ -441,6 +441,19 @@ a.nostyle:link, a.nostyle:visited {
   margin-bottom: 0.7em;
 }
 
+#bibbase #toggle-papers  {
+  color: white;
+  padding: 0.5em;
+  margin-top: 0.5em;
+  margin-bottom: 1.0em;
+  text-transform: capitalize;
+}
+
+#bibbase #toggle-papers:hover {
+  cursor: pointer;
+  text-decoration: none;
+}
+
 img.bibbase_icon {
     width: 20px;
     max-height: 16px;
