@@ -34,29 +34,10 @@ section, #sec-landing {
   background: linear-gradient(to bottom, #ffffff, #e6e3e4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-/*make the links grey in footer */
-footer {
-  background: rgba(210,210,210, 0.9); 
-  color: rgba(100,100,100,1.0);
-  text-align: center;
-  height: 100%;
-  padding-top: 2.5em;
-  padding-bottom: 1em;
-}
-
-footer a {
-  color: inherit;
-}
-
-
-.social {
-  margin: 0 0.7em;
-  white-space:nowrap;
-}
-
-
-.timestamp {
-  font-size: small;
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(100, 100, 100, 0.1), rgba(100, 100, 100, 0.8), rgba(100, 100, 100, 0.1));
 }
 
 
@@ -195,6 +176,10 @@ footer a {
 .mylabel {
   font-size: 1.0em;
   margin: 1px 0;
+}
+
+.timestamp {
+  font-size: small;
 }
 
 .my-youtube {
@@ -389,7 +374,7 @@ a.nostyle:link, a.nostyle:visited {
 .PageNavigation {
   font-size: 0.8em;
   text-transform: uppercase;
-  margin-top: 3em;
+  margin-top: 1.5em;
   min-height: 3em; /*so doesn't collapse when only "next" (float)*/
 }
 
@@ -414,9 +399,12 @@ a.nostyle:link, a.nostyle:visited {
   padding-bottom: 3em;
 }
 
-
 .figure-caption {
   text-align: center;
+}
+
+.post-header {
+  margin-top: 1.5em;
 }
 
 .post-body .first-letter {

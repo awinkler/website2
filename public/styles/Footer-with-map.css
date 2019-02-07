@@ -1,0 +1,88 @@
+#myFooter {
+    background-color: rgba(40,40,40,0.95);
+    color: white;
+    padding-top: 4em;
+    padding-bottom: 1em;
+    text-align: left;
+}
+
+#myFooter .container {
+    max-width: 1200px;
+}
+
+#myFooter .row {
+    margin: 0;
+    align-items: flex-start;
+}
+
+#myFooter ul {
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+    font-size: 1.4em;
+    margin-bottom: 0;
+    justify-content: center;
+}
+
+#myFooter ul li { 
+    margin-left: 1em;
+}
+
+#myFooter .fa-fw {
+    vertical-align: top;
+}
+
+#myFooter h5 {
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#myFooter a {
+    color: #d2d1d1;
+    text-decoration: none;
+}
+
+#myFooter a:hover,
+#myFooter a:focus {
+    text-decoration: none;
+    color: white;
+}
+
+#myFooter #copyright {
+    padding-top: 2em;
+    text-align: center;
+}
+
+#copyright hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
+}
+
+
+@media screen and (max-width: 992px) {
+    #myFooter {
+        text-align: center;
+    }
+}
+
+#myFooter a {
+    color: white;
+}
+
+#about-img {
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 1em;
+    /*height: 150px;*/
+    /*height: 100%;*/
+}
+
+#about-map {
+    /*height: 100%;*/
+    border: 0;
+    width: 100%;
+    margin: 0.5em 0;
+}
