@@ -34,6 +34,12 @@ section, #sec-landing {
   background: linear-gradient(to bottom, #ffffff, #e6e3e4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(100, 100, 100, 0.1), rgba(100, 100, 100, 0.8), rgba(100, 100, 100, 0.1));
+}
+
 
 /*==============Navbar================*/
 .navbar {
@@ -368,7 +374,7 @@ a.nostyle:link, a.nostyle:visited {
 .PageNavigation {
   font-size: 0.8em;
   text-transform: uppercase;
-  margin-top: 3em;
+  margin-top: 1.5em;
   min-height: 3em; /*so doesn't collapse when only "next" (float)*/
 }
 
@@ -393,9 +399,12 @@ a.nostyle:link, a.nostyle:visited {
   padding-bottom: 3em;
 }
 
-
 .figure-caption {
   text-align: center;
+}
+
+.post-header {
+  margin-top: 1.5em;
 }
 
 .post-body .first-letter {
