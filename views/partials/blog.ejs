@@ -1,23 +1,25 @@
 <section id="sec-blog" class="post">
 
-<div class="container">
-  <h2 class="display-4">Blog</h2> 
+<div class="container px-0">
+  <div class="px-3">
+    <h2 class="display-4">Blog</h2> 
 
-  <!-- Display message only if redirected from subscribe form -->
-  <% if (error && error.length > 0) {%>
-    <div class="alert alert-danger" role="alert">
-      <%= error %>
-    </div>
-  <% } %>
-  <% if (success && success.length > 0) {%>
-    <div class="alert alert-success" role="alert">
-      <%= success %>
-    </div>
-  <% } %>
-  
+    <!-- Display message only if redirected from subscribe form -->
+    <% if (error && error.length > 0) {%>
+      <div class="alert alert-danger" role="alert">
+        <%= error %>
+      </div>
+    <% } %>
+    <% if (success && success.length > 0) {%>
+      <div class="alert alert-success" role="alert">
+        <%= success %>
+      </div>
+    <% } %>
+    
 
-  <p>Welcome to my blog :-) So far a bit philosophy, a bit diary, let's see where it goes...
-  </p>
+    <p>Welcome to my blog :-) So far a bit philosophy, a bit diary, let's see where it goes...
+    </p>
+  </div>
 
   <div class="row m-1 m-md-0">
   <!-- Loop through array, newest posts first -->
@@ -53,5 +55,5 @@
     </div>
   <% }; %> <!-- end post loop -->
   </div>
-</div> <!-- container -->
+    </div> <!-- container -->
 </section>
