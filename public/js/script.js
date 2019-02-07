@@ -64,12 +64,12 @@ $('body').on('click', '.expand', function() {
 // import Typed from 'typed.js';
 var options = {
   strings: ["Thanks for dropping by!^500",
-            "Scroll down for research, software and blog :)"
+            "Just start scrolling and see it all :)"
            ],
   typeSpeed: 45,
   smartBackspace: true, // Default value
   backSpeed: 20,
-  startDelay: 2000,
+  startDelay: 1500,
 }
 
 var typed = new Typed(".element", options);

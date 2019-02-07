@@ -43,7 +43,7 @@ hr {
 
 /*==============Navbar================*/
 .navbar {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(55, 74, 76, 0.5);
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -51,7 +51,7 @@ hr {
 }
 
 .navbar-bg {
-  background-color: rgba(40,40,40,0.95);
+  background-color: rgba(55, 74, 76, 0.98);
   transition: all 1s;
 }
 
@@ -439,6 +439,19 @@ a.nostyle:link, a.nostyle:visited {
 
 .publication-list .bibbase_paper {
   margin-bottom: 0.7em;
+}
+
+#bibbase #toggle-papers  {
+  color: white;
+  padding: 0.5em;
+  margin-top: 0.5em;
+  margin-bottom: 1.0em;
+  text-transform: capitalize;
+}
+
+#bibbase #toggle-papers:hover {
+  cursor: pointer;
+  text-decoration: none;
 }
 
 img.bibbase_icon {
