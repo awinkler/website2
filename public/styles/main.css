@@ -43,7 +43,7 @@ hr {
 
 /*==============Navbar================*/
 .navbar {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(55, 74, 76, 0.5);
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -51,7 +51,7 @@ hr {
 }
 
 .navbar-bg {
-  background-color: rgba(40,40,40,0.95);
+  background-color: rgba(55, 74, 76, 0.98);
   transition: all 1s;
 }
 
