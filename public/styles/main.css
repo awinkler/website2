@@ -406,6 +406,7 @@ a.nostyle:link, a.nostyle:visited {
 .post p {
   color: rgba(0,0,0,.84);
   letter-spacing: -.003em;
+  font-size: 17px;
 }
 
 @media (max-width: 768px) { 
