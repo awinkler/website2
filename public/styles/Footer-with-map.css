@@ -1,12 +1,17 @@
 #myFooter {
+    line-height: 1.6;
     color: white;
-    padding-top: 4em;
+    padding-top: 8em;
     padding-bottom: 1em;
     text-align: left;
     background: #F0F2F0;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to bottom, #374a4c, #d9dbd9);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to bottom, #374a4c, #adb1c6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: -webkit-linear-gradient(to bottom, #374a4c, #8691a0);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #374a4c, #8691a0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
 
+#myFooter p {
+    color: white;
+    vertical-align: top;
 }
 
 #myFooter .container {
@@ -29,6 +34,10 @@
 
 #myFooter ul li { 
     margin-left: 1em;
+}
+
+#myFooter .highlight {
+    font-size: 28px;
 }
 
 #myFooter .fa-fw {

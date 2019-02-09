@@ -24,12 +24,9 @@ But why is collecting memories a more wholesome, reflected action than buying a 
 </em>
 </p>
 
-<figure class="figure mb-5">
+<figure class="figure">
 	<img src="/images/collect_memories/dive_sofa.png" class="figure-img img-fluid rounded">
 </figure>
-
-
-
 
 
 <h4>Initial happiness from both</h4>
@@ -47,7 +44,7 @@ Simply because you can remember situations in which you were content doesn't nec
 
 <h4>Experiences improve decision making*</h4>
 <p>
-Experiences finally gain the upper hand if they reveal something you haven't known before. (This is difficult for the sofa to do because, well... it's a sofa.) This new data allows you to form a more accurate view of how the world works. This more correct world-view enables you to better predict the outcome of your actions. This more accurate prediction helps you choose the action that more likely achieves what you intended. So ultimately *some* experiences can improve your decision-making skills. And since this skill can really improve life, anything that assists in its development should be desirable. 
+Experiences finally gain the upper hand if they reveal something you haven't known before. (This is difficult for the sofa to do because, well... it's a sofa.) This new data allows you to form a more accurate view of how the world works. This more correct world-view enables you to better predict the outcome of your actions. This more accurate prediction helps you choose the action that more likely achieves what you intended. So ultimately <em>some</em> experiences can improve your decision-making skills. And since this skill can really improve life, anything that assists in its development should be desirable. 
 </p>
 
 <h4>*Conditions apply</h4> 

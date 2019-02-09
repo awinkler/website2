@@ -135,4 +135,8 @@ $(".bash").on("mouseover mouseout", function () {
     this.querySelector('.btn-copy').classList.toggle('btn-hide');
 });
 
+$("#myFooter ul li").on("mouseover mouseout", function () {
+    console.log("hovering over list element");
+    this.classList.toggle('highlight');
+});
 
