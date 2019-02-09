@@ -23,6 +23,7 @@ mongoose.connect(urlAtlas, { useNewUrlParser: true });
 app.set("view engine", "ejs");
 app.use(bodyParser.urlencoded({ extended: true })); // support encoded bodies
 app.use(express.static(__dirname + "/public"));
+app.use('/pdf', express.static(__dirname + '/pathToPDF'));
 app.use(methodOverride("_method"));
 
 // to use flash messages
@@ -41,6 +42,7 @@ app.use((req, res, next) => {
   res.locals.posts   = posts;
   res.locals.error   = req.flash("error");
   res.locals.success = req.flash("success");
+  res.locals.pdfs    = "https://storage.googleapis.com/concise-hue-230505.appspot.com/pdfs"; // files hosted in google cloud bucket
   next();
 });
 
