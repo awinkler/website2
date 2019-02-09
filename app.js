@@ -22,8 +22,7 @@ mongoose.connect(urlAtlas, { useNewUrlParser: true });
 // configure express
 app.set("view engine", "ejs");
 app.use(bodyParser.urlencoded({ extended: true })); // support encoded bodies
-app.use(express.static(__dirname + "/public"));
-app.use('/pdf', express.static(__dirname + '/pathToPDF'));
+app.use(express.static(__dirname + "/public")); 
 app.use(methodOverride("_method"));
 
 // to use flash messages
@@ -50,14 +49,6 @@ app.use((req, res, next) => {
 // use routes
 app.use("/", indexRoute);
 app.use("/blog", blogRoute);
-
-
-
-app.get('/phd-thesis', (req, res) => {
-  res.sendFile(path.join(__dirname,'phd-thesis.html'));
-});
-
-
 
 
 
