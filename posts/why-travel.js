@@ -14,7 +14,7 @@ module.exports = {
 	<img src="/images/why_travel/elephants.jpg" class="img-thumbnail figure-img img-fluid rounded">
 	<figcaption class="figure-caption">
 		These beasts casually strolling down the street of 
-		<a href="https://goo.gl/maps/YDpQVFENDv72">Ayutthaya</a>are definitely cool, but not my main reason for travel.
+		<a href="https://goo.gl/maps/YDpQVFENDv72">Ayutthaya</a> are definitely cool, but not my main reason for travel.
 	<figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ I'll start talking about the 9-to-5 job, which always produces this slightly une
 Nonetheless, I view this excursion as only a temporary activity. Human craving for routine is perfectly sensible. A repeated day allows focusing brain power on a few select activities since everything else can be achieved running on power-saving autopilot. Unfortunately, those times of the day where the brain is running at full capacity are dedicated to work. Most other times, the brain is already drained and not suited to think about life on a grander scale. However, during travels, one can allocate brain power more freely. When one desires to think about more fundamental aspects of life, the brain can be used at full capacity. Like sporadic jumps to briefly overlook the wall of today to get an idea where you're heading. And if you haven't done leg-presses all day long, you jump higher, maybe see a bit further and clearer in these moments of recalibration.
 </p>
 <p>
-One might argue that there is time for this reflection during *vacation* - roughly 28 out of 365 days the agreed upon magic number. A time for deep introspection, with a recharged and balanced mind to think clearly. From personal experience, however, a vacation tends to one of two extremes: either all hell breaks loose and two lifetimes of activities are crammed into a one week slot. Resting is perceived as a waste of precious time - you snooze, you lose. There's no time for deeper reflection in such a busy schedule. 
+One might argue that there is time for this reflection during <em>vacation</em> &ndash; roughly 28 out of 365 days the agreed upon magic number. A time for deep introspection, with a recharged and balanced mind to think clearly. From personal experience, however, a vacation tends to one of two extremes: either all hell breaks loose and two lifetimes of activities are crammed into a one week slot. Resting is perceived as a waste of precious time &ndash; you snooze, you lose. There's no time for deeper reflection in such a busy schedule. 
 </p>
 <p>
 On the other end of the spectrum are the overworked, the mentally drained. Those that just want to lay under a palm tree sipping Pina Coladas for days on end. However, in such a scenario the mind is not balanced, recharged and ready for top performances. For example, just imagine extending this vacation indefinitely. There will probably come a time when just lying at the beach will become boring, Pina Coladas just another drink, the sight of the ocean just... blue. Until this time the mind is busy resolving the contrast between the routine back home and the shimmering turquoise ocean. Only after this contrast is resolved and the last months of work digested, one is ready to think clearly and unbiased... but also the vacation is over.
