@@ -27,7 +27,7 @@
 
 
 	<!-- High-level intro -->
-	<p>To make a robot move, it needs a motion-plan to follow. Traditionally an engineer<span id="demo" class="collapse"> has to look at the terrain and the proposed task, and then hand-design how the robot should move. This is tedious, since it requires a custom motion for each situation. I want to automate this by representing the the laws of physics through one universal mathematical optimization problem. Off-the-shelf solvers then automatically generate the solution motion-plan. Each solution obeys the encoded laws of physics, regardless of the specific goal position or terrain. These optimized plans can then be executed on the robot.</span><span class="expand" href="" data-toggle="collapse" data-target="#demo">... show intro&raquo</span>
+	<p>To make a robot move, it needs a motion-plan to follow. Traditionally an engineer<span id="demo" class="collapse"> examines the terrain and the required task, and then hand-designs how the robot should move. This is tedious, since it requires a custom motion for each situation. My research focussed on automating this by representing the the laws of physics through a single mathematical optimization problem. Off-the-shelf solvers then automatically generate a motion-plan for any terrain or task.</span><span class="expand" href="" data-toggle="collapse" data-target="#demo">... show intro&raquo</span>
 	</p>
 
 
@@ -136,19 +136,20 @@
 
 
 
-	<h4>
-		Vertex-based ZMP constraints&nbsp
-			<a class="btn btn-outline-primary btn-sm my-2" title="Download PDF" href="<%= pdfs %>/17-ral-winkler.pdf">RA-L 2017 paper
-	  </a>
-	</h4>
+	<div class="d-none d-lg-block">
+		<h4>
+			Vertex-based ZMP constraints&nbsp
+				<a class="btn btn-outline-primary btn-sm my-2" title="Download PDF" href="<%= pdfs %>/17-ral-winkler.pdf">RA-L 2017 paper
+		  </a>
+		</h4>
 
-	<p>
-	If you use the LIP model, you might be interested in this formulation of
-	ZMP constraints. Traditionally, support <em>areas</em> where necessary, whereas with this formulation support-<em>lines</em> and support-<em>points</em> work as well, allowing e.g. quadruped trotting, or biped point-feet running.
-	</p>
+		<p>
+		If you use the LIP model, you might be interested in this formulation of
+		ZMP constraints. Traditionally, support <em>areas</em> where necessary, whereas with this formulation support-<em>lines</em> and support-<em>points</em> work as well, allowing e.g. quadruped trotting, or biped point-feet running.
+		</p>
 
-
-	<hr class="mt-5">
+		<hr class="mt-5">
+	</div>
 
 
 	<p>
