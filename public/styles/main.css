@@ -5,7 +5,7 @@ html {
 body {
   font-family: 'Open Sans', sans-serif;
   font-style: normal;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 400;
   line-height: 1.8;
   color: rgba(0,0,0,.84);
@@ -391,6 +391,48 @@ a.nostyle:link, a.nostyle:visited {
   float: right;
   text-align: right;
 }
+
+
+
+
+
+
+
+
+
+
+
+.scrolling-wrapper-flexbox {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  /*height: 200px;*/
+  margin-bottom: 20px;
+  width: 100%;
+  -webkit-overflow-scrolling: touch;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+
+.scrolling-wrapper-flexbox .card {
+  flex: 0 0 auto;
+  margin-right: 5px;
+  border: 2px solid $red;
+  width: 150px; /* adapt to viewport */
+  height: 75px;
+  background: blue;
+}
+
+
+
+
+
+
+
+
+
 
 
 
