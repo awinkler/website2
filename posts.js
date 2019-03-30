@@ -6,6 +6,7 @@ posts.push(require('./posts/postpone-dreams'));
 posts.push(require('./posts/why-travel'));
 posts.push(require('./posts/meditation-camp'));
 posts.push(require('./posts/collect-memories'));
+posts.push(require('./posts/six-months'))
 
 for (var i = 0; i < posts.length; i++) {
 	posts[i].id = function () {

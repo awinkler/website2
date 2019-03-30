@@ -413,14 +413,14 @@ a.nostyle:link, a.nostyle:visited {
   padding-bottom: 3em;
 }
 
-.post p {
+.post p, .post li {
   color: rgba(0,0,0,.84);
   letter-spacing: -.003em;
   font-size: 17px;
 }
 
 @media (max-width: 768px) { 
-  .post p  {
+  .post p, .post li {
     font-size: 15px;
   }
 }
@@ -446,6 +446,25 @@ a.nostyle:link, a.nostyle:visited {
 
 .post-body {
   margin-top: 2.0rem;
+}
+
+/* =Inline bulleted lists
+-------------------------------------------------------------- */
+.list-horizontal {
+  padding-left: 0;
+}
+
+.list-horizontal li {
+  display:inline-block;
+}
+.list-horizontal li:before {
+  content: '\00a0\2022\00a0\00a0';
+/*  color:#999;
+  color:rgba(0,0,0,0.5);
+  font-size:11px;*/
+}
+.list-horizontal li:first-child:before {
+  content: '';
 }
 
 
