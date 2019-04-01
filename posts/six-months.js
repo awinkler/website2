@@ -1,14 +1,24 @@
 module.exports = {
-  title: "Summary of 6 months travelling",
-  subtitle: "Lessons learned",
+  title: "6 months travelling",
+  subtitle: "and mastering the Bum Gun",
   date:  "2019-3-30",
   time: "4",
-  img: "/images/collect_memories/insta_snap.png",
+  img: "/images/travel-summary/camping-hcmc.jpg",
   content: 
   `
 <p>
 <span class="first-letter">S</span>ix months of backpacking is over, and here's a brief summary for myself and others before I forget^^.
 </p>
+
+
+
+<figure class="figure">
+	<img src="/images/travel-summary/camping-hcmc.jpg" class="img-thumbnail figure-img img-fluid rounded">
+	<figcaption class="figure-caption">
+		Barbecue (with Chicken Feet) close to Ho Chi Minh City Vientam.
+	<figcaption>
+</figure>
+
 
 
 
@@ -19,11 +29,11 @@ module.exports = {
 			<li>Days: 181 (15.9.2018 - 15.3.2019) </li>
 			<li>Countries: Thailand (26), Cambodia (7), Vietnam (30), USA (15), Mexico (25), Indonesia (59), Philipines (19)</li>
 			<li>Money spent per day (no flights): 75$</li>
-			<li>Backpack: Osprey Farpoint (40L, 9kg)</li>
+			<li>Backpack: Osprey Farpoint (40L, 9kg) <a href="/images/travel-summary/backpack.jpg">inside</a></li>
 			<li>Hostels: 40</li>
 			<li>Most favorite backpacking country: Vietnam</li>
 			<li>Longest stay in one place: Canggu, Bali, 45 days.</li>
-			<li>Underpants: 2</li>
+			<li>Boxershorts: 3</li>
 			<li>Days with Diarrea: 10</li>
 		</ul>
 </div>
@@ -34,45 +44,79 @@ module.exports = {
 <div class="card-body">
 	<h5>Most memorable Experiences</h5>
 	<h6 class="subheader">
-		...made 10x more fun by experiencing it with amazing old and new friends.
+		...enhanced 10x by experiencing it with amazing old and new friends.
 	</h6>
 	<ul>
 		<li>riding Nightbuses and Nighttrains (TH, VN)</li>
-		<li>10-day silent meditation camp (VN)</li>
+		<li>10-day silent meditation camp (TH)</li>
 		<li>eating Chicken Feet (VN)</li> 
+		<li>cross a street in Ho Chi Minh City</li>
+		<li>delicious Bánh mi & Bánh bao (Danang)</li>
 		<li>Motorbiking the Hai Van Pass (VN)</li> 
 		<li>Paradise Cave in Phong Nha (VN)</li>
 		<li>swimming with Bioluminescene (MX)</li>
+		<li>history about Khmer Rouge and Vietnam War</li>
 		<li>eating Tacos al Pastor in Mexico City</li>
-		<li>Scuba diving through a fish swarm in Amed, Bali.</li>
-		<li>surfing waves in Bali & Siargao</li>
+		<li>Scuba diving through a fish swarm in Amed (Bali)</li>
+		<li>surfing (Bali & Siargao)</li>
 	</ul>
+</div>
+</div>
+
+<figure class="figure">
+	<img src="/images/travel-summary/hai-van-pass.jpg" class="img-thumbnail figure-img img-fluid rounded">
+	<figcaption class="figure-caption">
+		Hai-Van Pass, Vietnam.
+	<figcaption>
+</figure>
 
 
+<div class="card bg-light mb-3">
+<div class="card-body">
 	<h5>Skills improved</h5>
-	<ul class="list-horizontal">
+	<ul>
 		<li>sleeping in dorms</li>
 		<li>eating with chopsticks</li>
 		<li>using Google Maps for life</li>
 		<li>googling VISA information</li>
-		<li>accurately judging a hostel through Hostelworld images</li>
+		<li>judging a hostel through Hostelworld images</li>
 		<li>finding ATMs</li>
 		<li>photography</li>
 		<li>expertly using "Bum-Guns"</li>
 		<li>how to kick-start a scooter</li>
-		<li>Vipasanna meditation</li>
-		<li>some History (Khmer Rouge, Vietnam War)</li>
-		<li>teaching english (workaway.info)</li>
-		<li>cross a street in Ho Chi Minh City without dying</li>
+		<li>teaching english (<a href="https://www.workaway.info/">workaway.info</a>)</li>
 	  <li>Jenga</li>
 	  <li>Marco-Polo</li>   
 		<li>surfing</li>
 		<li>yoga</li>
 		<li>scuba diving</li>
-		<li>small-talk</li>
-		<li>Web Development (html, css, js, nodejs)</li>
-		<li>Game Development (Unity)</li>
+		<li>small talk</li>
+<!-- 		<li>Web Development (html, css, js, nodejs)</li>
+		<li>Game Development (Unity)</li> -->
 	</ul> 
+
+</div>
+</div>
+
+<div class="card bg-light">
+  <div class="card-body">
+  <h5 class="card-title">Must have apps</h5>
+	<p>
+	Having internet on the road makes travelling so much easier. So when arriving at an airport, I'd buy a prepaid SIM card for about 20$ with 15GB highspeed LTE. These are my favorites: 
+	</p> 
+
+	<ul>
+		<li><a href="https://www.google.com/maps">Google Maps</a>: This was the number one on my homescreen (sorry maps.me evangelists^^). Especially the "offline maps" options is great when travelling to a new country where you don't have data yet. Also great to search for ATMs, restaurants and to save your hidden gems.
+		</li>
+		<li><a href="https://www.hostelworld.com/">Hostelworld</a>: I prefer to stay at least 3 nights per hostel, as things usually get better (you get to know people, location). I avoided hostels with names that end with an animal, since they are usually Party Hostels (termed "Atmosphere" on Hostelworld). Don't book anything more than 3 nights ahead. Pick hostels a bit away from center to connect with older (30ish) travelers.
+		</li>
+		<li><a href="https://www.couchsurfing.com/">Couchsurfing</a>: Even if you don't want to crash on someone's couch, checkout the Hangouts feature to spontaneously meet with other travellers.
+		</li>
+		<li><a href="https://www.grab.com/">Grab</a>: The Uber equivalent of SE-Asia. Make sure to add your CC in the app beforehand. Then, as soon as you have internet, you're mobile! They also have scooters to pick you up, which is great budget option if you travel with little luggage.
+		</li>
+		<li><a href="https://www.go-jek.com/">GoJek</a> (Food): If in Bali, use this app to get dinner delievered to your home for only 1$ extra.
+		</li>
+	</ul>
 
 </div>
 </div>
@@ -84,7 +128,7 @@ module.exports = {
 <p>
 I'm so privileged and have so many options. Nobody has cars here. 
 How difficult it can be for ppl with other passports and less money to travel.
-So many simultaneous lives going on at this instance arround the world.
+So many simultaneous lives going on at this instance arround the world and we're top of the foodchain.
 </p>
 
 
@@ -107,6 +151,13 @@ I smoked occasionally at the beginning of the travel, as many people in the back
 How lively the streets are (also a night) and how much more people are socializing compared to "developed countries". Money brings isolation? Really noticed in the states how empty streets are, it's car to work, to house.
 </p>
 
+<figure class="figure">
+	<img src="/images/travel-summary/hanoi.jpg" class="img-thumbnail figure-img img-fluid rounded">
+	<figcaption class="figure-caption">
+		Hanoi, Vietnam. Look how lively.
+	<figcaption>
+</figure>
+
 <p>
 How many people are currently travelling or working remotely. That that's a life one can have and choose.
 </p>
@@ -118,11 +169,19 @@ How many people are currently travelling or working remotely. That that's a life
 	<li>America was the bad guy in Vietnam war.</li>
 	<li>Plastic waste is a real issue in Bali. Paddled out through dirty water in Canggu.</li>
 	<li>Top bunk bed is not better than bottom bed.</li>
-	<li>Sharing a room with other people does not reduce happiness.</li>
+	<li>Sharing a room with other people is not problem.</li>
 	<li>Partying is really not fun for me anymore.</li>
-	<li>Saw that 4 males can fit on one scooter</li>
+	<li>4 males can fit on one scooter</li>
 	<li>SE-Asia is extremely safe. Not one criminal incident in 6 months. Also never used a locker in the dorms (just a lock on my bag) and never had anything stolen.  
 </ul>
+
+
+<figure class="figure">
+	<img src="/images/travel-summary/sinag-hostel.jpg" class="img-thumbnail figure-img img-fluid rounded">
+	<figcaption class="figure-caption">
+		Sinag hostel in Siargao, Philipines. Amazing place.
+	<figcaption>
+</figure>
 
 
 
@@ -145,30 +204,6 @@ Not so much for me. Sightseeing/exploring I prefer to do with other people. Goin
 <p>
 I noticed that six months of pure travelling/sightseeing is quite long. 3 weeks every 6 months sight-seeing vacations are enough. Pick one country and go all-in, hostel, social, tours. The other time stay in a place with routine, and work efficiently on something (optimally this is my job) and do sports, e.g. surfing. Because pure travel can be exhausting and conversely, working efficiently and doing sports is difficult on the road. 
 </p>  
-
-
-<div class="card bg-light">
-  <div class="card-body">
-  <h5 class="card-title">Practical advice</h5>
-	<p>
-	Technology makes travelling sooo easy nowadays. The first thing when you arrive at a country/airport is get Cash and a Sim Card with Internet (about 20$ for 15GB LTE).
-	</p> 
-
-	<h6>My most helpful apps</h6>
-	<ul>
-		<li><em>Google Maps</em>: This was the number one on my homescreen (sorry maps.me evangelists^^). Especially the "offline maps" options is great when travelling to a new country where you don't have data yet. Also great to search for ATMs, restaurants and to save your hidden gems.
-		</li>
-		<li><em>Hostelworld</em>: I prefer to stay at least 3 nights per hostel, as things usually get better (you get to know people, location). I avoided hostels with names that end with an animal, since they are usually Party Hostels (termed "Atmosphere" on Hostelworld). Don't book anything more than 3 nights ahead. Pick hostels a bit away from center to connect with older (30ish) travelers.
-		</li>
-		<li><em>Grab</em>: The Uber equivalent of SE-Asia. Make sure to add your CC in the app beforehand. Then, as soon as you have internet, you're mobile! They also have scooters to pick you up, which is great budget option if you travel with little luggage.
-		</li>
-		<li><em>GoJek</em> (Food): If in Bali, use this app to get dinner delievered to your home for only 1$ extra.
-		</li>
-	</ul>
-
-</div>
-</div>
-
 
 
   `,
