@@ -7,7 +7,7 @@ module.exports = {
   content: 
   `
 <p>
-<span class="first-letter">S</span>ix months of backpacking is over, and here I want to retain some of the things I've learned.
+<span class="first-letter">S</span>ix months of backpacking is over, and here I want to retain some of the things I've learned.ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 </p>
 
 
@@ -88,6 +88,7 @@ module.exports = {
 
 <h4>Most valuable lessons learned?</h4>
 <p>
+
 I'm so privileged and have so many options. 
 How difficult it can be for ppl with other passports and less money to travel.
 So many simultaneous lives going on at this instance arround the world.
@@ -95,26 +96,105 @@ I'm often overprepared in terms of money, insurance, medial supply, fancy clothe
 </p>
 
 <p>
+Everyone is busy with their own life. People don't really think about me that often. This is not meant in a bitter, negative sense, but as encouragement to stop obsessing about what others think about me. You're on a large stage but the entire audience is just looking at their smartphone answering emails, because they also got shit to do, that' fine. I can do whatever I want, and just as     
+</p>
+
+
+<p>
+(Life is about other humans.)
+Life is useless. We make up arbitary things to keep us busy, but ultimately there's no reason why any of us <em>need</em> to live. The earth doesn't need humans to survive (probabaly on the contrary), and nobody misses a person who never existed. So since were already alive, what to do? It seems that human connection, sharing this useless existence with other people, is one of the only things matters. If I imagine a world in which I were the only human, I wouldn't be writing code or working on a company. Even the "professional" world is made mostly interesting not by the products, but by the fact the <em>other people</em> use our products, <em>other people</em> benefit from our product, we gain recognition from <em>other people</em> for our work, we compete and collaborate with <em>other people</em> to push us to be our best. We can tell ourselves we just love creating/building, but that's just part of the picture. Without other people, in an uninhabited world, there would be little satisfaction in developing all this alone in our basement.
+
+
+
+Types of interactions with other people in the professional world:
+- ppl are happier because of our we/our product helps them.
+- we gain recognition from other ppl for our work
+- we compete with other ppl
+- we collaborate with other ppl
+
+
+
+
+
+
+
+
+
+
+We can't convince people that there is an objective reason for them to live, but we can make their lives more bearable. That seems like the only sensible thing to do. 
+We can support this cycle of humans breeding more useless humans, and making their lives more bearable.    
+
+
+
+
+
+A human alone on earth would be suuuuuper boring, no reason to live! Would use animals as other sentient beings for comfort. If also no animals, only nature, that would really be a sad existence. So Premise 1:
+Humans need sentient beings to connect with.
+
+
+
+
+
+
+
+
+ince there is no objective goal for any of us, the only thing we can focuss on is the subjective experience of each  
+
+
+
+Since we're all playing this game without a goal together, the only sensible thing      
+
+
+
+
+
+ The only thing we can observe is the happiness of the people along the way (to death).     
+
+
+
+
+
+Improving the life of one human being of 7 600 000 000, seems like a useless/unimportant task, who cares?! That means it doesn't make sense to dedicate my life to my career, my happiness, or making money - I'm just one human. The same is true for me dedicating my life to helping <em>one</em> other person -- it equally makes no difference. What about helping 1..2..20 other people? Where's that magic number after which your life has been worth living? At this stage of my ignorance, i'll say, the more the better. But one thing that's for sure, is just focussing on myself will forever keep that number at 1, and I know I can do better than that.  
+
+
+
+Something that would seem like a    
+
+Usefulness instead of Happiness:
+https://medium.com/darius-foroux/the-purpose-of-life-is-not-happiness-its-usefulness-65064d0cdd59
+
+
+Maslow's pyramid of needs
+
+</p>
+
+
+
+
 Everyone is busy with their own life. Not in a negative sense, but people don't really care what you do or think about you that often. That's also very freeing, because you start to understand you are alone and also can do whatever you want, nobody's really watching. And noone you really have to impress, because everyone thinks about themselves. Time goes on and some people do this, others that. There isn't THE optimal lifestyle, everyone has its own. For me I feel oppressed living in a small town in germany. I feel best when I'm among young people. I feel best when I'm in warm weather.
 </p>
 
-<p>
-Seeing people advertise a new robotics paper seemed a bit less...important. As if I managed to break out of that current just a bit and get a bit more of an outsiders perspective. At least for me I think the things that are important are things outside Academia, making and building something, more that writing papers on it. It became more attractive to me.
-</p>  
 
 <p>
-I learned that taking care of the body should have higher priority. I never really drunk much apart from the occasional beer. I did smoke more at the beginning of the travel, as everyone travelling does so (which is weird i think, many are well educated!). But at some point i felt it eating my body from the inside. I understood that my main reason for smoking was that I enjoyed being able to stand somewhere doing nothing without looking stupid. It was an introvert thing, I didn't have to talk but could still be part of a social happening. So maybe most people who smoke are missing self-confidence to just stand at the edge of the party doing nothing (and not looking at their phone). I also completely stopped drinking alcohol (except a nice cocktail), because I reallly don't like the taste and even small quantities harm your body, even if you don't directly feel it. I noticed how much I craved sugar and that I should also cut down on that to reduce risk for diabetes.
+Whereas previously 70% of my conversation involved robotics, now only the occasional facebook post reminded me of my profession. And seeing a new robotics paper now seems a bit less...important. I'm still very interested in the scientific aspects, but academic research is so far removed from life of the non-researcher. In the travel-bubble (also very much a bubble), people mostly talk about the places they visited, the things they experienced, the people they met. My citations or journals don't interest anyone in this environment. A post from my Zurich flatmate Stephanie, after she finished her PhD, resonated with me in which she said: <em>"Might be done accumulating qualifications now"</em>. Enough of accumulating citations, papers and job-experience to prove that I know what I'm doing. Let's start and actually do and build something, something scientifically challenging, but useful also outside the bubble of academia. (also goes into Usefullnes direction).
 </p>
 
+
 <p>
+I smoked occasionally at the beginning of the travel, as many people in the backpacking community do. I understood that my main reason for smoking was that I enjoyed being able to stand somewhere doing nothing without looking stupid. It was an introvert thing. So I was mostly missing the self-confidence to just idly stand at the edge of a party. Instead of smoking I will work on my self-confidence. 
+
+I hate hangovers. That's why I rarely drank more than a few beer. But if 8 beer cause a terrible hangover, indicating that my body is harmed by alcohol, then one beer still harms my body 1/8 of the terrible hangover. Even if I don't feel it. I'll only accept this health-hazard, if the alcohol I'm drinking is delicious and there's no non-alcoholic alternative. Therefore I'm forever done with shots (juck!) and beer and whine are replaced by tasty fresh-juice. Still looking for an alternativee to a a delicious mojito or gin&tonic ;) 
+</p>
+
+<!-- <p>
 Travelling isn't neccessary to make you a better, more world-open person. I met a few interesting people, who just started their first travels a few days ago and impressed me in the genuonly curious way they engaged with the country, the people and the mindset they had. This trait was something they picked up at home, and they can be just as good an embassador for their country than the long-term traveler. In the same way, just because the natives you meet haven't travelled to other countries, really doesn't make them worse people in any way. 
-</p> 
+</p>  -->
 
 
 
 <h4>Something I changed my mind about through the 6 months travel?</h4>
 <ul>
-	<li>Partying is really not fun for me (anymore?). Or was it ever.</li>
+	<li>Partying is really not fun for me (anymore).</li>
 	<li>America was bad in Vietnam war.</li>
 	<li>Plastic waste is a top issue in Indonesia/Philipines. Paddled out through dirty water in Canggu.</li>
 	<li>Top bunk bed is not better than bottom bed.</li>
@@ -124,7 +204,7 @@ Travelling isn't neccessary to make you a better, more world-open person. I met 
 
 <h4>Most experience of freedom and explorer mindset</h4>
 <p>
-Generally sitting on buses looking out the window and seeing the world pass by. It gave me a peculiar feeling of possibility. That I can go anywhere for a few bucks, do anything. This feeling of not beeing constrained. This urge that I'm obliged to use it and not let it go to waste.
+Generally sitting on buses/trains/boats looking out the window and seeing the world pass by. It gave me a peculiar feeling of possibility. That I can go anywhere for a few bucks, do anything. This feeling of not beeing constrained. This urge that I'm obliged to use it and not let it go to waste.
 Sitting in Bus driving to Pai listening to <insert song here> looking out the window, felt freeing, because I didn't plan going there until bying a ticket on the spot.
 Walking/Jogging around in totally strange Phnom Phen, felt like in an amusement park (Monks just walking around).
 </p>
@@ -133,14 +213,14 @@ Walking/Jogging around in totally strange Phnom Phen, felt like in an amusement 
 
 <h4>Was loneliness an issue?</h4>
 <p>
-Not for me, but this depends on the person. Sightseeing/exploring I prefer to do with other people. Going to a restaurant I also have no problem going alone. Especially breakfast I actually prefer alone with a a book. BUT, the regular visits as well as great skype talks with friends and family always made me feel connected. Technology ftw!
+Not so much for me. Sightseeing/exploring I prefer to do with other people. Going to a restaurant I also have no problem going alone. Especially breakfast I actually prefer alone with a a book. BUT, the regular visits as well as great skype talks with friends and family always made me feel connected. Technology ftw!
 </p>
 
 
 
 <h4>Some inspring people I've come in contact with</h4>
 <p>
-Woman running from Westborow Baptist Church, UK woman leaving home for NZ, Programmer working abroad, Sinag Hostel women starting a business (unprepared?)
+Woman breaking off from Westborow Baptist Church, UK woman leaving home for NZ, Programmer working abroad, Sinag Hostel women starting a business (unprepared?)
 </p> 
 
 
@@ -157,7 +237,7 @@ Woman running from Westborow Baptist Church, UK woman leaving home for NZ, Progr
 
 <h4>What will I do differently next time?</h4>
 <p>
-I noticed that 6 months of pure travelling/sightseeing is quite long. 3 weeks every 6 months sight-seeing vacations are enough. Pick one country and go all-in, hostel, social, tours. The other time stay in a place with routine, and work efficiently on something (optimally this is my job) and do sports. Because pure travel can be exhausting and conversely, working efficiently and doing sports is difficult on the road. 
+I noticed that 6 months of pure travelling/sightseeing is quite long. 3 weeks every 6 months sight-seeing vacations are enough. Pick one country and go all-in, hostel, social, tours. The other time stay in a place with routine, and work efficiently on something (optimally this is my job) and do sports, e.g. surfing. Because pure travel can be exhausting and conversely, working efficiently and doing sports is difficult on the road. 
 </p>  
 
 
