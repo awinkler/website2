@@ -100,19 +100,19 @@ module.exports = {
 
 <div class="card bg-light">
   <div class="card-body">
-  <h5 class="card-title">Must have apps</h5>
+  <h5 class="card-title">Must have travel apps</h5>
 	<p>
-	Having internet on the road makes travelling so much easier. So when arriving at an airport, I'd buy a prepaid SIM card for about 20$ with 15GB highspeed LTE. These are my favorites: 
+	Having internet on the road makes travelling so much easier. So when arriving at an airport, I'd buy a prepaid SIM card for about 20$ with 15GB highspeed LTE. These are my favorite travel apps: 
 	</p> 
 
 	<ul>
-		<li><a href="https://www.google.com/maps">Google Maps</a>: This was the number one on my homescreen (sorry maps.me evangelists^^). Especially the "offline maps" options is great when travelling to a new country where you don't have data yet. Also great to search for ATMs, restaurants and to save your hidden gems.
+		<li><a href="https://www.google.com/maps">Google Maps</a>: The number one on my homescreen (sorry maps.me evangelists^^). Especially the "offline maps" options is great when travelling to a new country where you don't have data yet. Also great to search for ATMs, restaurants and to save your hidden gems.
 		</li>
-		<li><a href="https://www.hostelworld.com/">Hostelworld</a>: I prefer to stay at least 3 nights per hostel, as things usually get better (you get to know people, location). I avoided hostels with names that end with an animal, since they are usually Party Hostels (termed "Atmosphere" on Hostelworld). Don't book anything more than 3 nights ahead. Pick hostels a bit away from center to connect with older (30ish) travelers.
+		<li><a href="https://www.hostelworld.com/">Hostelworld</a>: I prefer to stay at least 3 nights per hostel, as things usually get better (you get to know people, location). I avoided hostels with names that end with an animal, since they are often Party Hostels (termed "Atmosphere" on Hostelworld). I rarely booked more than a day in advance to stay flexible. Picking hostels a bit away from center helps connect with older (30ish) travelers.
 		</li>
 		<li><a href="https://www.couchsurfing.com/">Couchsurfing</a>: Even if you don't want to crash on someone's couch, checkout the Hangouts feature to spontaneously meet with other travellers.
 		</li>
-		<li><a href="https://www.grab.com/">Grab</a>: The Uber equivalent of SE-Asia. Make sure to add your CC in the app beforehand. Then, as soon as you have internet, you're mobile! They also have scooters to pick you up, which is great budget option if you travel with little luggage.
+		<li><a href="https://www.grab.com/">Grab</a>: The Uber equivalent of SE-Asia. Make sure to add your CC in the app beforehand. Then, as soon as you have internet, you're mobile! They also have scooters to pick you up, which is a great budget option if you travel with little luggage.
 		</li>
 		<li><a href="https://www.go-jek.com/">GoJek</a> (Food): If in Bali, use this app to get dinner delievered to your home for only 1$ extra.
 		</li>
@@ -124,22 +124,22 @@ module.exports = {
 
 
 
-<h4>Some lessons learned?</h4> 
+<h4>Some lessons learned?</h4>
+<h6>I'm so privileged</h6>
 <p>
-I'm so privileged and have so many options. Nobody has cars here. 
-How difficult it can be for ppl with other passports and less money to travel.
-So many simultaneous lives going on at this instance arround the world and we're top of the foodchain.
+This first one is so cliche, I considered leaving it out, but I think it's one of my most important realizations. How effortlessly I could save enough money to fly and experience a foreign country, compared to how much more difficult it would be for the college graduate from Phnom Phen to backpack through Europe. And I'm not just privileged in terms of money, but also options. Merely because I was born at the specific patch of earth to get a German Passport, I'm able to enter so many countries with so little bureucratic effort. I didn't earn this, do anything for it, that's also just given to me. 
+
+On top of money and open-doors to foreign countries, another privilege is environment. Although an education at a reknowned university doesn't guarantee professional success, it does increase the chances (if only connecting you with influencial people or convince company recruiters who put a disproportionate value on <em>where</em> you got your degree from). I have no doubt that there are equally capable kids as me in the schools in Cambodia or Vietnam, but if I imagine the challenges they would have to overcome to e.g. study at ETH Zurich: One of the hardest things is to even recognize that as a possibility, because you must do something so radically different than your parents, peers, environment. Then, they have to convince universities of their potential with a foreign report card in a system most recruiters can't accurately judge. On top of that, money and Visa will be huge issues. 
 </p>
 
 
 <p>
-Everyone is busy with their own life. People don't really think about you that often. This is not meant in a bitter, negative sense, but as encouragement to stop obsessing about trying to please others. You're on a large stage but the entire audience is just looking at their smartphone answering emails, because they also got shit to do, that's fine. 
-You can do whatever I want, just as other people are going their way, thinking about their own problems. This includes your parents and friends, they'll love and support you, but ultimately this is a path you walk alone, so make your own decisions.
+Everyone is busy with their own life. People don't really think about you that often. I don't say this in a bitter, negative sense, quite the contrary. It takes the pressure off, like talking on a conference call, but the entire audience is just answering emails on their smartphone, because they also got shit to do and that's fine. Do whatever you want. At the same time you alone must take full responsiblity for your decisions. Don't make a decision that you'll be stuck with 100% of the time, based on the expectations, sentiments, beliefs of other people that might only be impacted by it 1% of the time. They don't have the skin in the game.
 </p>
 
 
 <p>
-Whereas previously 70% of my conversation involved robotics, now only the occasional facebook post reminded me of my profession. And seeing a new robotics paper now seems a bit less...important. I'm still very interested in the scientific aspects, but academic research is so far removed from life of the non-researcher. In the travel-bubble (also very much a bubble), people mostly talk about the places they visited, the things they experienced, the people they met. My citations or journals don't interest anyone in this environment. 
+Your environment strongly influences what you view as important. In the last 4 years I nodded in admiring recognition when someone got published in IJRR instead of "just" RA-L, found it self-evident to dedicate months of my life to optimize not just step-timings, but the gait sequence, had hour-long discussions on the crucial importance of modelling the effects of leg motions on body accelerations. It was super exciting to work on these challenges, but I forget how much of a niche I'm really in. And sometimes you might overblow the effect your research matters to the world. Of course I stomped from the academic robotics bubble right into the backpacker-bubble instead, where dinner conversations revolved about countries visited, breathtaking places you gotta see, local food you must try and that you don't want to go back home. Seeing what people view as important in this enviroment, combined with my previous bubbles, possibly gave me a more holistic perspective. In any case, there are many more bubbles to sample.  
 </p>
 
 
