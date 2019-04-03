@@ -41,12 +41,12 @@ module.exports = {
 
 <h4>They're doing it. Right now.</h4>
 <p>
-I wrote in a <a href="/blog/why-im-travelling">previous post</a> about sampling others ways of living. Travelling gave me a glimpse into what feels like a secret society (okey, not that secret). These are backpackers, volunteers, online-teachers, writers, influencers, digital nomads, spread everywhere throughout the world, living for a few months or years different than the rest. They have other perks and also other problems. But they prove that work, play and life can be structured differently and the lines between them blurred. For me, it is inspiring to realize that they're many more than I thought, and they're living like this <em>right now</em> (my Instagram feed proving it). 
+I wrote in a <a href="/blog/why-im-travelling">previous post</a> about sampling others ways of living. Traveling gave me a glimpse into a Parallel Society doing it. These are backpackers, volunteers, online-teachers, writers, influencers, digital nomads, spread throughout the world, living for a few months or years different than the rest. They have other perks and, of course, also other problems. But they prove that work, play and life can be structured differently and the lines between them blurred. For me, it is inspiring to realize that they're many more than I thought, and they're living like this <em>right now</em> (I see them in my Instagram feed). 
 </p>
 <figure class="figure">
     <img src="/images/travel-summary/scooter-gang.jpg" class="img-thumbnail figure-img img-fluid rounded">
     <figcaption class="figure-caption">
-        The Secret Society, pssst! [<a href="https://goo.gl/maps/effeQNrSTf42">Sinag hostel<a>, Philipines].
+        Hanging with the Parallel Society [<a href="https://goo.gl/maps/effeQNrSTf42">Sinag hostel<a>, Philipines].
     <figcaption>
 </figure>
 
@@ -56,29 +56,6 @@ I wrote in a <a href="/blog/why-im-travelling">previous post</a> about sampling 
 <p>
 I noticed for me there are two modes of traveling (read "living"). The first mode is <em>Exploration</em>. That's changing hostels every few days, doing tours, sightseeing. It's difficult to get a consistent sleeping routine, or stick to a workout schedule since there's so much to do, see and everything is always changing. It's exhilarating, but it can also be exhausting. That's why I limited these pure backpacking sections to a few weeks, and in that time go all-in: Socialize, participate, explore. But I don't even try to get work done or sleep long, that's not what these phases are for.
 </p>
-<div class="card bg-light mb-3">
-<div class="card-body">
-    <h5>Most memorable Explorations</h5>
-    <h6 class="subheader">
-        ...enhanced 10x by experiencing it with amazing old and new friends.
-    </h6>
-    <ul>
-        <li>riding Nightbuses and Nighttrains (TH, VN)</li>
-        <li>10-day silent meditation camp <a href="/blog/living-like-a-buddhist-monk">post</a> (TH) </li>
-        <li>eating Chicken Feet (VN)</li> 
-        <li>cross a street in Ho Chi Minh City (VN)</li>
-        <li>delicious Bánh mi & Bánh bao (VN)</li>
-        <li>motorbiking the Hai Van Pass (VN)</li> 
-        <li>Paradise Cave in Phong Nha (VN)</li>
-        <li>swimming with Bioluminescene (MX)</li>
-        <li>history about Khmer Rouge and Vietnam War</li>
-        <li>eating Tacos al Pastor in Mexico City</li>
-        <li>Scuba diving through a fish swarm in Amed (Bali)</li>
-        <li>surfing (Bali & Siargao)</li>
-    </ul>
-</div>
-</div>
-
 
 <p>
 The other mode is <em>Exploitation</em>. It's about dedicating time to getting something done, acquiring a specific goal, working on your health or just relaxing. For these tasks, it's ideal to stay in one place for multiple weeks, get into a routine, be strict with yourself. I did this in Bali where I spent 45 days learning surfing, web development and eating healthy.
@@ -88,6 +65,30 @@ The other mode is <em>Exploitation</em>. It's about dedicating time to getting s
 <p>
 Of course, you can also mix these modes, but it's helpful to be clear in one's mind what (or if) you are currently trying to achieve. Then you don't have to have a bad conscience when you're not writing that essay while playing Jenga at the hostel, because you know there's a better time for that in an environment that's perfectly tailored to this objective.   
 </p>
+
+<div class="card bg-light mb-3">
+<div class="card-body">
+    <h5>Most memorable Explorations</h5>
+    <h6 class="subheader">
+        ...enhanced 10x by experiencing it with amazing old and new friends.
+    </h6>
+    <ul>
+        <li>riding Nightbuses and Nighttrains</li>
+        <li>10-day silent meditation camp <a href="/blog/living-like-a-buddhist-monk">(blog post)</a></li>
+        <li>eating Chicken Feet</li> 
+        <li>cross a street in Ho Chi Minh City</li>
+        <li>delicious Bánh mi & Bánh bao</li>
+        <li>motorbiking the Hai Van Pass</li> 
+        <li>Paradise Cave in Phong Nha</li>
+        <li>swimming with Bioluminescene</li>
+        <li>history about Khmer Rouge and Vietnam War</li>
+        <li>eating Tacos al Pastor in Mexico City</li>
+        <li>Scuba diving through a fish swarm in Amed</li>
+        <li>surfing in Canggu and Siargao</li>
+    </ul>
+</div>
+</div>
+
 <figure class="figure">
     <img src="/images/travel-summary/exploitation.jpg" class="img-thumbnail figure-img img-fluid rounded">
     <figcaption class="figure-caption">
@@ -135,7 +136,7 @@ Your environment strongly influences what you view as important. In the last 4 y
 
 <h4>Appreciating health</h4>
 <p>
-When you're not fit, everything sucks (especially when traveling). That's why I avoided hangovers like the plague and rarely drank more than a few beers. But if 8 beer cause a terrible hangover, signaling clearly that something in my body is seriously destroyed by the alcohol, then one beer still harms my body 1/8 of the amount &ndash; even if I don't feel it. I'll only accept this health-hazard if the alcohol I'm drinking is delicious and there's no non-alcoholic alternative. Therefore I'm forever done with shots (yuck!) and beer and wine are mostly replaced by tasty fresh-juice. I doubt I'll find an alternative to a delicious mojito though. 
+When you're not fit, everything sucks (especially when traveling). That's why I avoided hangovers like the plague and rarely drank more than a few beers. But if 8 beer cause a terrible hangover, clearly signaling that my body is being destroyed by the alcohol, then one beer still harms my body 1/8 of the amount &ndash; even if I don't feel it. I'll only accept this health-hazard if the alcohol I'm drinking is delicious and there's no non-alcoholic alternative. Therefore I'm forever done with shots (yuck!) and beer and wine are mostly replaced by tasty fresh-juice. I doubt I'll find an alternative to a delicious mojito though. 
 </p>
 
 <p>
