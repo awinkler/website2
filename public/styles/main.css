@@ -448,24 +448,16 @@ a.nostyle:link, a.nostyle:visited {
   margin-top: 2.0rem;
 }
 
-/* =Inline bulleted lists
--------------------------------------------------------------- */
-.list-horizontal {
-  padding-left: 0;
+.post-body .badge {
+  font-size: 100%;
+  font-weight: 600;
 }
 
-.list-horizontal li {
-  display:inline-block;
+.post-body .badge a {
+  color: inherit;
 }
-.list-horizontal li:before {
-  content: '\00a0\2022\00a0\00a0';
-/*  color:#999;
-  color:rgba(0,0,0,0.5);
-  font-size:11px;*/
-}
-.list-horizontal li:first-child:before {
-  content: '';
-}
+
+
 
 
 
