@@ -20,14 +20,14 @@ module.exports = {
 <span class="badge badge-secondary">USA (15)</span>
 <span class="badge badge-secondary">Mexico (25)</span>
 <span class="badge badge-secondary">Bali (59)</span>
-<span class="badge badge-secondary">Philipines (19)</span>
+<span class="badge badge-secondary">Philippines (19)</span>
 <span class="badge badge-secondary">$/day (no flights): 75$</span>
 <span class="badge badge-secondary">Hostels: 40</span>
 <span class="badge badge-secondary">Favorite for backpacking: Vietnam</span>
 <span class="badge badge-secondary">Longest stay: Canggu (Bali) for 45 days</span>
 <span class="badge badge-secondary">Backpack: 40L, 10kg <a href="/images/travel-summary/backpack.jpg">(peek inside)</a></span>
 <span class="badge badge-secondary">Boxershorts: 3</span>
-<span class="badge badge-secondary">Days with diarrhoea: 10</span>
+<span class="badge badge-secondary">Days with diarrhea: 10</span>
 </p>
 
 <figure class="figure">
@@ -41,7 +41,7 @@ module.exports = {
 
 <h4>They're doing it. Right now.</h4>
 <p>
-I wrote in a <a href="/blog/why-im-travelling">previous post</a> about sampling others ways of living. Travelling gave me a glimpse into what feels like a "Secret(ish) Society". These are backpackers, volunteers, online-teachers, writers, influencers, digital nomads, spread everywhere throughout the world, choosing to live for a few weeks, months or years different than the rest. They have other perks and also problems. But they prove that work, play, life can be structured differently and the lines between them blurred. For me, it is inspiring to realize that they're many more than I thought, and they're living like this <em>right now</em> (my Instagram feed proving it). 
+I wrote in a <a href="/blog/why-im-travelling">previous post</a> about sampling others ways of living. Travelling gave me a glimpse into what feels like a secret society (okey, not that secret). These are backpackers, volunteers, online-teachers, writers, influencers, digital nomads, spread everywhere throughout the world, living for a few months or years different than the rest. They have other perks and also other problems. But they prove that work, play and life can be structured differently and the lines between them blurred. For me, it is inspiring to realize that they're many more than I thought, and they're living like this <em>right now</em> (my Instagram feed proving it). 
 </p>
 <figure class="figure">
     <img src="/images/travel-summary/scooter-gang.jpg" class="img-thumbnail figure-img img-fluid rounded">
@@ -54,7 +54,7 @@ I wrote in a <a href="/blog/why-im-travelling">previous post</a> about sampling 
 
 <h4>Two modes of travelling</h4>
 <p>
-I noticed for me there are two modes of traveling (read "living"). The first mode is <em>Exploration</em>. That's changing hostels every few days, doing tours, sightseeing. It's difficult to get a consistent sleeping routine, or stick to a workout schedule since there's so much to do, see and everything is always changing. It's exhilarating! But it can also be exhausting. That's why I limited these pure backpacking sections to a few weeks, and in that time go all-in: Socialize, participate, explore. But I don't even try to get work done or sleep long, that's not what these phases are for.
+I noticed for me there are two modes of traveling (read "living"). The first mode is <em>Exploration</em>. That's changing hostels every few days, doing tours, sightseeing. It's difficult to get a consistent sleeping routine, or stick to a workout schedule since there's so much to do, see and everything is always changing. It's exhilarating, but it can also be exhausting. That's why I limited these pure backpacking sections to a few weeks, and in that time go all-in: Socialize, participate, explore. But I don't even try to get work done or sleep long, that's not what these phases are for.
 </p>
 <div class="card bg-light mb-3">
 <div class="card-body">
@@ -86,7 +86,7 @@ The other mode is <em>Exploitation</em>. It's about dedicating time to getting s
 
 
 <p>
-Of course, you can also mix these modes, but it's helpful to be clear in one's mind what, or if, you are currently trying to achieve. Then you don't have to have a bad conscience when you're not writing that essay while playing Jenga at the hostel, because you know there's a better time for that in an environment that's perfectly tailored to this objective.   
+Of course, you can also mix these modes, but it's helpful to be clear in one's mind what (or if) you are currently trying to achieve. Then you don't have to have a bad conscience when you're not writing that essay while playing Jenga at the hostel, because you know there's a better time for that in an environment that's perfectly tailored to this objective.   
 </p>
 <figure class="figure">
     <img src="/images/travel-summary/exploitation.jpg" class="img-thumbnail figure-img img-fluid rounded">
@@ -98,7 +98,7 @@ Of course, you can also mix these modes, but it's helpful to be clear in one's m
 
 
 
-<h4>I'm so privileged</h4>
+<h4>I'm privileged</h4>
 <p>
 This one is so cliché that I considered leaving it out, but I think it's one of my most important realizations. How effortlessly I could save enough money to fly and experience a foreign country, compared to how much more difficult it would be vice-versa &ndash; for a college graduate from Cambodia to backpack through Europe. 
 </p>
@@ -121,7 +121,7 @@ The final privilege is environment. An education at a renowned university doesn'
 
 <h4>Everyone is busy with their own shit</h4>
 <p>
-Everyone is busy with their own life. People don't really think about you that often. I don't say this in a bitter, negative sense, quite the contrary. Realizing that the people in your life are independent humans with their own worries and agendas, not obsessing about you, takes the pressure off. Do whatever <em>you</em> want and then take full responsibility for your decisions. Don't make a decision that you'll be stuck with 100% of the time, based on the expectations, sentiments, beliefs of other people only impacted by it 1% of their time. They don't have the skin in the game. And for times you are together with them, you can be their best friend, brother or son if you are happy with your own decisions.
+People don't really think about you that often. I don't say this in a bitter, negative sense, quite the contrary. Realizing that the people in your life are independent humans with their own worries and agendas, not obsessing about you, takes the pressure off. They're busy with their own life. Do whatever <em>you</em> want and then take full responsibility for your decisions. Don't base a decision that you'll be stuck with 100% of the time on the expectations, sentiments or beliefs of other people. They'll rarely be impacted 1% of their time &ndash; they don't have the skin in the game. And only when you're content with your own decisions, your life, that's when you can be the best friend, brother or son and positively impact other people's lives.
 </p>
 
 
@@ -129,7 +129,7 @@ Everyone is busy with their own life. People don't really think about you that o
 
 <h4>Being aware of my bubbles</h4>
 <p>
-Your environment strongly influences what you view as important. In the last 4 years I nodded in admiring recognition when someone got published in IJRR instead of <em>just</em> RA-L; found it self-evident to dedicate months of my life to optimize not just step-timings, but the gait sequence; had hour-long discussions on the crucial importance of modelling the effects of leg motions on body accelerations. It was super exciting to work on these challenges, but I forgot how much of a niche I was really in. And I probably exaggerated to myself how much this research really matters to the world. Of course, I stomped from the academic robotics bubble right into the backpacker-bubble instead, where dinner conversations revolved about breathtaking places you gotta see, local food you must try and that you don't want to go back home. Seeing what people view as important in this environment complemented my view on life.  
+Your environment strongly influences what you view as important. In the last 4 years I nodded in admiring recognition when someone got published in IJRR instead of just RA-L; found it self-evident to dedicate months of my life to optimize not just step-timings, but the gait sequence; had hour-long discussions on the crucial importance of modelling the effects of leg motions on body accelerations. It was super exciting to work on these challenges, but I forgot how much of a niche I was really in. And I probably exaggerated to myself how much this research really matters to the world. Now I stomped from the academic robotics bubble right into the backpacker-bubble, where dinner conversations revolved about breathtaking places you gotta see, local food you must try and that you don't want to go back home. What people view as important in this bubble seems like a healthy addition to my view on life.
 </p>
 
 
@@ -175,7 +175,7 @@ Having internet on the road makes traveling sooo much easier &ndash; I can't eve
 <figure class="figure">
     <img src="/images/travel-summary/hanoi.jpg" class="img-thumbnail figure-img img-fluid rounded">
     <figcaption class="figure-caption">
-    	It stood out how much more people hangout and socialize outside in SE-Asia than back home. Does money bring isolation, or do we just not socialize outside? (Hanoi).
+    	It stood out how much more people hangout and socialize outside in SE-Asia than back home. Does money increase isolation? (Hanoi).
     <figcaption>
 </figure>
 
