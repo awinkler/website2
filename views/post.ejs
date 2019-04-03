@@ -20,14 +20,11 @@
     <h4 class="text-muted"><%= post.subtitle %></h4>
   </div>
 
-  <div class="post-body">       
+  <div class="post-body mb-5">       
     <%- post.content %> 
   </div>
 
   <% include ./partials/blog-page-nav %>
-
-  <hr class="mb-5">
-  <% include ./partials/comments %>
   <% include ./partials/newsletter %>
 
 </div>

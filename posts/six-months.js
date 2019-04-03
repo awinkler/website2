@@ -2,14 +2,14 @@ module.exports = {
   title: "6 months traveling",
   subtitle: "and mastering the Bum Gun",
   date:  "2019-3-30",
-  time: "4",
+  time: "6",
   img: "/images/travel-summary/camping-hcmc.jpg",
   content: 
   `
 
 
 <p>
-<span class="first-letter">S</span>ix months of backpacking is over, and this post collects some of the reoccuring thoughts, insights or just curious moments during these travels. It turned out to be a super random collection, so don't look for the golden thread, an agenda, a goal... just enjoy the journey &#x1F609.
+<span class="first-letter">S</span>ix months of backpacking is over, and this post collects some of my reoccuring thoughts, new insights or just curious moments. Don't bother looking for the golden thread or a conclusion... just enjoy the journey (as I did) &#x1F609.
 </p>
 
 <p style="font-size: 13px">
@@ -33,13 +33,13 @@ module.exports = {
 <figure class="figure">
     <img src="/images/travel-summary/camping-hcmc.jpg" class="img-thumbnail figure-img img-fluid rounded">
     <figcaption class="figure-caption">
-        Barbecue with students learning English. Close to Ho Chi Minh City, Vientam.
+        Barbecue with students learning English. Close to Ho Chi Minh City, Vietnam.
     <figcaption>
 </figure>
 
 
 
-<h4>They're doing it right now</h4>
+<h4>They're doing it. Right now.</h4>
 <p>
 I wrote in a <a href="/blog/why-im-travelling">previous post</a> about sampling others ways of living. Travelling gave me a glimpse into what feels like a "Secret(ish) Society". These are backpackers, volunteers, online-teachers, writers, influencers, digital nomads, spread everywhere throughout the world, choosing to live for a few weeks, months or years different than the rest. They have other perks and also problems. But they prove that work, play, life can be structured differently and the lines between them blurred. For me, it is inspiring to realize that they're many more than I thought, and they're living like this <em>right now</em> (my Instagram feed proving it). 
 </p>
@@ -133,19 +133,19 @@ Your environment strongly influences what you view as important. In the last 4 y
 </p>
 
 
-<h4>Prioritizing Heath</h4>
+<h4>Appreciating health</h4>
 <p>
-I smoked occasionally at the beginning of the travel, as many people in the backpacking community do. I realized that my main reason for smoking was that I enjoyed being able to stand somewhere doing nothing without looking stupid. It was an introvert thing. You're still connected to the people, you can watch them, you can think, but it's not awkward if everyone just silently pulls on that glowing stick. By working on my self-confidence, I can still be in these situations, but without a cigarette in my hand.
+When you're not fit, everything sucks (especially when traveling). That's why I avoided hangovers like the plague and rarely drank more than a few beers. But if 8 beer cause a terrible hangover, signaling clearly that something in my body is seriously destroyed by the alcohol, then one beer still harms my body 1/8 of the amount &ndash; even if I don't feel it. I'll only accept this health-hazard if the alcohol I'm drinking is delicious and there's no non-alcoholic alternative. Therefore I'm forever done with shots (yuck!) and beer and wine are mostly replaced by tasty fresh-juice. I doubt I'll find an alternative to a delicious mojito though. 
 </p>
 
 <p>
-I hate hangovers. That's why I rarely drank more than a few beers. But if 8 beer cause a terrible hangover, signaling clearly that something in my body is seriously destroyed by the alcohol, then one beer still harms my body 1/8 of the amount &ndash; even if I don't feel it. I'll only accept this health-hazard if the alcohol I'm drinking is delicious and there's no non-alcoholic alternative. Therefore I'm forever done with shots (yuck!) and beer and wine are mostly replaced by tasty fresh-juice. I doubt I'll find an alternative to a delicious mojito though, yummy! 
+I also smoked occasionally at the beginning of the travels, as many backpackers seem to do. However, I realized that my main reason for smoking was that I enjoyed being able to stand somewhere doing nothing without looking stupid. It was an introvert thing. You're still connected to the people, you can watch them, you can think, but it's not awkward if everyone just silently pulls on that glowing stick. By working on my self-confidence, I can still be in these situations, but without a cigarette in my hand putting my health at risk.
 </p>
 
 
 <h4>Was loneliness an issue?</h4>
 <p>
-For me not so much. Sight-seeing and exploring I prefer with other people, so I tried to sign up for day tours or events directly at the hostel, that was the best way to connect with other travelers. Especially in hostels, there are a bunch of solo travelers that want to connect, so that's rarely an issue if you're confident enough to strike up a conversation. And even during time periods when I wasn't too sociable, being connected to friends and family over Skype, WhatsApp, etc never really makes you feel alone. Technology ftw!
+For me not so much. Sight-seeing and exploring I prefer with other people, so I tried to sign up for day tours or events directly at the hostel, that was the best way to connect with other travelers. Especially in hostels, there are a bunch of solo travelers that want to connect, so that's rarely an issue if you're confident enough to strike up a conversation. And even during time periods when I wasn't too sociable, being connected to friends and family over Skype, WhatsApp, etc never really made me feel alone. Technology ftw!
 </p>
 
 
@@ -157,7 +157,7 @@ Having internet on the road makes traveling sooo much easier &ndash; I can't eve
 <ul>
     <li><a href="https://www.google.com/maps">Google Maps</a>: The number one on my home screen (sorry maps.me evangelists). Especially the "offline maps" options is great when traveling to a new country where you don't have data yet. Also great to search for ATMs, restaurants and to save your hidden gems.
     </li>
-    <li><a href="https://www.hostelworld.com/">Hostelworld</a>: I avoided hostels with names that end with an animal since they are often Party Hostels (termed "Atmosphere" on Hostelworld). Rarely needed to booked more than a day in advance. Hostels a bit away from center and about 2$ more expensive attracted more my crowd (30ish, more chill). I prefer to stay at least 3 nights per hostel, as things usually get better as you get to know the people, location. 
+    <li><a href="https://www.hostelworld.com/">Hostelworld</a>: I avoided hostels with names that end with an animal since they are often Party Hostels (termed "Atmosphere" on Hostelworld). Rarely needed to reserve more than a day in advance. Hostels a bit away from center and about 2$ more expensive attracted more my crowd (30ish, more chill). I prefer to stay at least 3 nights per hostel, as things usually get better as you get to know the people, location. 
     </li>
     <li><a href="https://www.couchsurfing.com/">Couchsurfing</a>: Even if you don't want to crash on someone's couch, check out the Hangouts feature to spontaneously meet with other travelers.
     </li>
@@ -180,22 +180,22 @@ Having internet on the road makes traveling sooo much easier &ndash; I can't eve
 </figure>
 
 <ul>
-	  <li>that the US was the bad guy in Vietnam war</li>
-    <li>that plastic waste in the ocean is a huge issue in Bali</li>
-    <li>that, if choice of bunk bed, always chose bottom</li>
-    <li>that sharing a room with other people is not a problem</li>
-    <li>that partying is not really fun for me anymore</li>
-    <li>that 4 males can fit on one scooter</li>
-    <li>that Even quiet people want to talk, as long as one asks the right questions</li>
-    <li>that SE-Asia is safe. Not one criminal incident in six months</li>
-    <li>eating with chopsticks</li>
-    <li>using Google Maps for life</li>
-    <li>obtaining VISA information</li>
-    <li>judging a hostel through Hostelworld images</li>
-    <li>expertly using "Bum-Guns" (lower between legs!)</li>
-    <li>how to kick-start a scooter</li>
-    <li>teaching english (<a href="https://www.workaway.info/">workaway.info</a>)</li>
-    <li>Photography, Jenga, Marco-Polo, Surfing, Yoga, Scuba diving</li>
+	  <li>...the US was the bad guy in Vietnam war</li>
+    <li>...plastic waste in the ocean is a huge issue in Bali</li>
+    <li>...if I can choose a bunk bed, choose bottom</li>
+    <li>...sharing a room with other people is not a problem</li>
+    <li>...partying is not really fun for me anymore</li>
+    <li>...4 males can fit on one scooter</li>
+    <li>...even quiet people want to talk if one asks the right questions</li>
+    <li>...SE-Asia is safe. Not one criminal incident in six months</li>
+    <li>...eating with chopsticks</li>
+    <li>...using Google Maps for life</li>
+    <li>...obtaining VISA information</li>
+    <li>...judging a hostel through Hostelworld images</li>
+    <li>...expertly using "Bum-Guns" (lower between legs!)</li>
+    <li>...how to kick-start a scooter</li>
+    <li>...teaching english (<a href="https://www.workaway.info/">workaway.info</a>)</li>
+    <li>...Surfing, Yoga, Scuba diving, Photography, Jenga, Marco-Polo,...</li>
 </ul> 
 
 

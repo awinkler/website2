@@ -53,7 +53,7 @@ Unfortunately, the experience of watching the sunset in Bali doesn't qualify. Of
 </p>
 
 <p>
-To permanently enhance one's world-view, experiences must contradict something previously believed to be true. That's when they're effective. In those moments that surprise. When you're thinking to yourself: how weird! While everything goes as expected, while you're right, why would any rational person change the way they think. The unexpected is where true value lies because there we were wrong. Only now do we have substance to improve our world-view, data to learn from. So let's collect situations that are unfamiliar, with the goal of experiencing things that are unexpected. Let's try to be wrong not because we're foolish, but because we dare.
+To permanently enhance one's world-view, experiences must contradict something previously believed to be true. That's when they're effective. In those moments that surprise. When you're thinking to yourself: how weird! While everything goes as expected, while you're right, why would any rational person change the way they think. The unexpected is where true value lies because there we were wrong. Only now do we have substance to improve our world-view, data to learn from. So let's collect situations that are unfamiliar, with the goal of experiencing things that are unexpected.
 </p>
   `,
 };
