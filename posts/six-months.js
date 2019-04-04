@@ -121,7 +121,7 @@ The final privilege is environment. An education at a renowned university doesn'
 
 <h4>Everyone is busy with their own shit.</h4>
 <p>
-People don't really think about you that often. I don't say this in a bitter, negative sense, quite the contrary. Realizing that the people in your life are independent humans with their own worries and agendas, not obsessing about you, takes the pressure off. They're busy with their own life. Do whatever <em>you</em> want and then take full responsibility for your decisions. Don't base a decision that you'll be stuck with 100% of the time on the expectations, sentiments or beliefs of other people. They'll rarely be impacted 1% of their time &ndash; they don't have the skin in the game. And when you're content with your own decisions and life, that's when you can have the most positive impact other people's lives as well.
+People don't really think about you that often. I don't say this in a bitter, negative sense, quite the contrary. Realizing that the people in your life are independent humans with their own worries and agendas, not obsessing about you, takes the pressure off. They're busy with their own life. Do whatever <em>you</em> want and then take full responsibility for your decisions. Don't base a decision that you'll be stuck with 100% of the time on the expectations, sentiments or beliefs of other people. They'll rarely be impacted 1% of their time &ndash; they don't have the skin in the game. And when you're content with your own decisions and life, that's when you can have the most positive impact on other people's lives as well.
 </p>
 
 
