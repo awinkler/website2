@@ -2,7 +2,7 @@ module.exports = {
   title: "Six months backpacking",
   subtitle: "and mastering the Bum Gun",
   date:  "2019-3-30",
-  time: "6",
+  time: "7",
   img: "/images/travel-summary/camping-hcmc.jpg",
   content: 
   `
@@ -20,7 +20,7 @@ module.exports = {
 <span class="badge badge-secondary">Mexico (25)</span>
 <span class="badge badge-secondary">Bali (59)</span>
 <span class="badge badge-secondary">Philippines (19)</span>
-<span class="badge badge-secondary">$/day (no flights): 75$</span>
+<span class="badge badge-secondary">$/day: 75 (no flights)</span>
 <span class="badge badge-secondary">Hostels: 40</span>
 <span class="badge badge-secondary">Favorite for backpacking: Vietnam</span>
 <span class="badge badge-secondary">Longest stay: Canggu (Bali) for 45 days</span>
@@ -40,7 +40,7 @@ module.exports = {
 
 <h4>Be clear on your objectives (if any).</h4>
 <p>
-For me there crystallized two modes of traveling (read "living"). The first mode is <em>Exploration</em>. That's changing hostels every few days, doing tours, sightseeing. It's difficult to get a consistent sleeping routine, or stick to a workout schedule since there's so much to experience and everything is always changing. It's exhilarating, but it can also be exhausting. I limited these pure backpacking sections to a few weeks, and in that time go all-in: Socialize, participate, explore. But I don't even try to get work done or sleep long, that's not what these phases are for.
+For me there crystallized two modes of traveling (read "living"). The first mode is <em>Exploration</em>: Changing hostels every few days, doing tours, sightseeing. It's difficult to get a consistent sleeping routine, or stick to a workout schedule since there's so much to experience and everything is always changing. It's exhilarating, but it can also be exhausting. I limited these pure backpacking sections to a few weeks, and in that time go all-in: Socialize, participate, explore. But I don't even try to get work done or sleep long, that's not what these phases are for.
 </p>
 
 <p>
@@ -66,7 +66,7 @@ Of course, you can also mix these modes, but it's helpful to be clear in one's m
         <li>delicious Bánh mi & Bánh bao</li>
         <li>motorbiking the Hai Van Pass</li> 
         <li>Paradise Cave in Phong Nha</li>
-        <li>swimming with Bioluminescene</li>
+        <li>swimming with Bioluminescence</li>
         <li>history about Khmer Rouge and Vietnam War</li>
         <li>eating Tacos al Pastor in Mexico City</li>
         <li>Scuba diving through a fish swarm in Amed</li>
@@ -121,7 +121,7 @@ The final privilege is environment. An education at a renowned university doesn'
 
 <h4>Everyone is busy with their own shit.</h4>
 <p>
-People don't really think about you that often. I don't say this in a bitter, negative sense, quite the contrary. Realizing that the people in your life are independent humans with their own worries and agendas, not obsessing about you, takes the pressure off. They're busy with their own life. Do whatever <em>you</em> want and then take full responsibility for your decisions. Don't base a decision that you'll be stuck with 100% of the time on the expectations, sentiments or beliefs of other people. They'll rarely be impacted 1% of their time &ndash; they don't have the skin in the game. And only when you're content with your own decisions, your life, that's when you can be the best friend, brother or son and positively impact other people's lives.
+People don't really think about you that often. I don't say this in a bitter, negative sense, quite the contrary. Realizing that the people in your life are independent humans with their own worries and agendas, not obsessing about you, takes the pressure off. They're busy with their own life. Do whatever <em>you</em> want and then take full responsibility for your decisions. Don't base a decision that you'll be stuck with 100% of the time on the expectations, sentiments or beliefs of other people. They'll rarely be impacted 1% of their time &ndash; they don't have the skin in the game. And when you're content with your own decisions and life, that's when you can have the most positive impact other people's lives as well.
 </p>
 
 
@@ -129,7 +129,7 @@ People don't really think about you that often. I don't say this in a bitter, ne
 
 <h4>Your environment influences what you view as important.</h4>
 <p>
-In the last 4 years I nodded in admiring recognition when someone got published in IJRR instead of just RA-L; found it self-evident to dedicate months of my life to optimize not just step-timings, but the gait sequence; had hour-long discussions on the crucial importance of modelling the effects of leg motions on body accelerations. It was super exciting to work on these challenges, but I forgot how much of a niche I was really in. And I probably exaggerated to myself how much this research really matters to the world. Now I catapulted from the academic robotics bubble right into the backpacker-bubble, where dinner conversations revolved about breathtaking places you gotta see, local food you must try and that you don't want to go back home. What people consider important in this environment also has some justification. So I think sampling various bubbles results in the most holistic perspective on life.
+In the last 4 years I nodded in admiring recognition when someone got published in IJRR instead of just RA-L; found it self-evident to dedicate months of my life to optimize not just step-timings, but the gait sequence; had hour-long discussions on the crucial importance of modeling the effects of leg motions on body accelerations. It was super exciting to work on these challenges, but I forgot how much of a niche I was really in. And I probably exaggerated to myself how much this research really matters to the world. Now I catapulted from the academic robotics bubble right into the backpacker-bubble, where dinner conversations revolved about breathtaking places you gotta see, local food you must try and that you don't want to go back home. What people consider important in this environment also has some justification. So I think sampling various bubbles results in the most holistic perspective on life.
 </p>
 
 
@@ -146,28 +146,27 @@ I also smoked occasionally at the beginning of the travels, as many backpackers 
 <p><em>"Strong opinions, loosely held."</em> &mdash;Somebody</p>
 
 <ul>
-	  <li>...the US was the bad guy in Vietnam war</li>
-    <li>...plastic waste in the ocean is a huge issue in Bali</li>
-    <li>...if I can choose a bunk bed, choose bottom</li>
-    <li>...sharing a room with other people is not a problem</li>
-    <li>...partying is not really fun for me anymore</li>
-    <li>...4 males can fit on one scooter</li>
-    <li>...even quiet people want to talk if one asks the right questions</li>
-    <li>...SE-Asia is safe. Not one criminal incident in six months</li>
-    <li>...eating with chopsticks</li>
-    <li>...using Google Maps for life</li>
-    <li>...obtaining VISA information</li>
-    <li>...judging a hostel through Hostelworld images</li>
-    <li>...expertly using "Bum-Guns" (lower between legs!)</li>
-    <li>...how to kick-start a scooter</li>
-    <li>...teaching english (<a href="https://www.workaway.info/">workaway.info</a>)</li>
-    <li>...Surfing, Yoga, Scuba diving, Photography, Jenga, Marco-Polo,...</li>
+	  <li>US was the bad guy in Vietnam war</li>
+    <li>plastic waste in the ocean is a huge issue in Bali</li>
+    <li>always choose bottom bunk bed</li>
+    <li>sharing a room with other people is not a problem</li>
+    <li>partying is not really fun for me anymore</li>
+    <li>4 males can fit on one scooter</li>
+    <li>even quiet people want to talk if one asks the right questions</li>
+    <li>SE-Asia is safe. Not one criminal incident in six months</li>
+    <li>eating with chopsticks</li>
+    <li>using Google Maps for life</li>
+    <li>judging a hostel through Hostelworld images</li>
+    <li>expertly using "Bum-Guns" (lower between legs!)</li>
+    <li>how to kick-start a scooter</li>
+    <li>teaching English (<a href="https://www.workaway.info/">workaway.info</a>)</li>
+    <li>Surfing, Yoga, Scuba diving, Photography, Jenga, Marco-Polo,...</li>
 </ul> 
 
 <figure class="figure">
     <img src="/images/travel-summary/hanoi.jpg" class="img-thumbnail figure-img img-fluid rounded">
     <figcaption class="figure-caption">
-    	It stood out how much more people hangout and socialize outside in SE-Asia than back home. Does money increase isolation? (Hanoi).
+    	It stood out how much more people socialize outside in SE-Asia than back home. Does money increase isolation? (Hanoi).
     <figcaption>
 </figure>
 
@@ -186,7 +185,7 @@ Having internet on the road makes traveling sooo much easier &ndash; I can't eve
 <ul>
     <li><a href="https://www.google.com/maps">Google Maps</a>: The number one on my home screen (sorry maps.me evangelists). Especially the "offline maps" options is great when traveling to a new country where you don't have data yet. Also great to search for ATMs, restaurants and to save your hidden gems.
     </li>
-    <li><a href="https://www.hostelworld.com/">Hostelworld</a>: I avoided hostels with names that end with an animal since they are often Party Hostels (termed "Atmosphere" on Hostelworld). Rarely needed to reserve more than a day in advance. Hostels a bit away from center and about 2$ more expensive attracted more my crowd (30ish, more chill). I prefer to stay at least 3 nights per hostel, as things usually get better as you get to know the people, location. 
+    <li><a href="https://www.hostelworld.com/">Hostelworld</a>: I avoided hostels with names that end with an animal since they are often Party Hostels (termed "Atmosphere" on Hostelworld). Rarely needed to reserve more than a day in advance. Hostels a bit away from the center and about 2$ more expensive attracted more my crowd (30ish, more chill). I prefer to stay at least 3 nights per hostel, as things usually get better as you get to know the people, location. 
     </li>
     <li><a href="https://www.couchsurfing.com/">Couchsurfing</a>: Even if you don't want to crash on someone's couch, check out the Hangouts feature to spontaneously meet with other travelers.
     </li>
