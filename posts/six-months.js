@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Of six months backpacking",
+  title: "Six months backpacking",
   subtitle: "and mastering the Bum Gun",
   date:  "2019-3-30",
   time: "6",
@@ -8,7 +8,7 @@ module.exports = {
   `
 
 <p>
-<span class="first-letter">I</span> am sitting on the toilet throwing my shit-stained toilet paper in the trash can under the sink when I realize: Whoops, I'm back in Germany! Before my mind fully makes this transition, I'll try and retain some of the new (and obviously weird!) synapse connections my mind formed during months on the road.
+<span class="first-letter">I</span> am sitting on the toilet throwing my shit-stained toilet paper in the trash can under the sink when I realize: Whoops, I'm back in Germany! Before my mind fully makes this transition, I'll try to retain some of the (also peculiar) synapse connections my mind formed during months on the road.
 </p>
 
 <p style="font-size: 13px">

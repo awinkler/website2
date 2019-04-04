@@ -34,7 +34,7 @@ But why is collecting memories a more wholesome, reflected action than buying a 
 Well, for starters they are much more similar than they are different. Both give an initial satisfaction: We're happy how the sofa perfectly matches the equally hideous carpet, just as we enjoy watching the Angelfish swim up behind the corals. Then, as our initial excitement starts to fade, we present the sofa, or our vacation pics, to friends, reliving that initial moment of excitement through them, squeezing out the last bit of happiness. At the latest now the initial pleasure we got from both the sofa or the scuba dive has vanished, a feeling of the past. 
 </p>
 
-<h4>Can't hold on to neither</h4>
+<h4>Can't hold on to either</h4>
 <p>
 Okay, maybe the sofa will become dull, but surely remembering enjoyable past activities will give me some current happiness! Let's think about that. Maybe like me, you picture this older, sophisticated man in an armchair, smoking a cigar in front of his fireplace, remembering with a slight smile his youthful times backpacking through Europe. But this guy is in a good place now. His happiness, just as presumably ours, comes mainly from the current life situation, not nostalgic memories. I assume it is much more difficult for the freezing homeless laying on newspapers in a back alley of Seattle to gain contentment from the thought how he once hitchhiked along Route 66.
 </p> 
