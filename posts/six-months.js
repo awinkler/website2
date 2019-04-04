@@ -1,5 +1,5 @@
 module.exports = {
-  title: "6 months traveling",
+  title: "Of six months backpacking",
   subtitle: "and mastering the Bum Gun",
   date:  "2019-3-30",
   time: "6",
@@ -7,9 +7,8 @@ module.exports = {
   content: 
   `
 
-
 <p>
-<span class="first-letter">S</span>ix months of backpacking is over, and this post collects some of my reoccuring thoughts, new insights or just curious moments. Don't bother looking for the golden thread or a conclusion... just enjoy the journey (as I did) &#x1F609.
+<span class="first-letter">I</span> am sitting on the toilet throwing my shit-stained toilet paper in the trash can under the sink when I realize: Whoops, I'm back in Germany! Before my mind fully makes this transition, I'll try and retain some of the new (and obviously weird!) synapse connections my mind formed during months on the road.
 </p>
 
 <p style="font-size: 13px">
@@ -39,22 +38,9 @@ module.exports = {
 
 
 
-<h4>They're doing it. Right now.</h4>
+<h4>Be clear on your objectives (if any).</h4>
 <p>
-I wrote in a <a href="/blog/why-im-travelling">previous post</a> about sampling others ways of living. Traveling gave me a glimpse into a Parallel Society doing it. These are backpackers, volunteers, online-teachers, writers, influencers, digital nomads, spread throughout the world, living for a few months or years different than the rest. They have other perks and, of course, also other problems. But they prove that work, play and life can be structured differently and the lines between them blurred. For me, it is inspiring to realize that they're many more than I thought, and they're living like this <em>right now</em> (I see them in my Instagram feed). 
-</p>
-<figure class="figure">
-    <img src="/images/travel-summary/scooter-gang.jpg" class="img-thumbnail figure-img img-fluid rounded">
-    <figcaption class="figure-caption">
-        Hanging with the Parallel Society [<a href="https://goo.gl/maps/effeQNrSTf42">Sinag hostel<a>, Philipines].
-    <figcaption>
-</figure>
-
-
-
-<h4>Two modes of travelling</h4>
-<p>
-I noticed for me there are two modes of traveling (read "living"). The first mode is <em>Exploration</em>. That's changing hostels every few days, doing tours, sightseeing. It's difficult to get a consistent sleeping routine, or stick to a workout schedule since there's so much to do, see and everything is always changing. It's exhilarating, but it can also be exhausting. That's why I limited these pure backpacking sections to a few weeks, and in that time go all-in: Socialize, participate, explore. But I don't even try to get work done or sleep long, that's not what these phases are for.
+For me there crystallized two modes of traveling (read "living"). The first mode is <em>Exploration</em>. That's changing hostels every few days, doing tours, sightseeing. It's difficult to get a consistent sleeping routine, or stick to a workout schedule since there's so much to experience and everything is always changing. It's exhilarating, but it can also be exhausting. I limited these pure backpacking sections to a few weeks, and in that time go all-in: Socialize, participate, explore. But I don't even try to get work done or sleep long, that's not what these phases are for.
 </p>
 
 <p>
@@ -68,9 +54,9 @@ Of course, you can also mix these modes, but it's helpful to be clear in one's m
 
 <div class="card bg-light mb-3">
 <div class="card-body">
-    <h5>Most memorable Explorations</h5>
+    <h5>Most memorable Experiences</h5>
     <h6 class="subheader">
-        ...enhanced 10x by experiencing it with amazing old and new friends.
+        Many of them because of the great people involved.
     </h6>
     <ul>
         <li>riding Nightbuses and Nighttrains</li>
@@ -89,17 +75,30 @@ Of course, you can also mix these modes, but it's helpful to be clear in one's m
 </div>
 </div>
 
-<figure class="figure">
+<!-- <figure class="figure">
     <img src="/images/travel-summary/exploitation.jpg" class="img-thumbnail figure-img img-fluid rounded">
     <figcaption class="figure-caption">
         Learning Unity Game development during a 6 week Exploitation phase in Bali.
+    <figcaption>
+</figure> -->
+
+
+
+<h4>They're doing it. Right now.</h4>
+<p>
+Traveling gave me a glimpse into a "Parallel Society". These are backpackers, volunteers, online-teachers, writers, influencers, digital nomads, spread throughout the world, living for a few months or years different than the rest. This brings other benefits and, of course, also other problems. But they prove that work, play and life can be structured differently and the lines between them blurred. For me, it was inspiring to see and talk to people that are living like this <em>right now</em>.
+</p>
+<figure class="figure">
+    <img src="/images/travel-summary/scooter-gang.jpg" class="img-thumbnail figure-img img-fluid rounded">
+    <figcaption class="figure-caption">
+        Shredding with the Parallel Society [<a href="https://goo.gl/maps/effeQNrSTf42">Sinag hostel<a>, Philippines].
     <figcaption>
 </figure>
 
 
 
 
-<h4>I'm privileged</h4>
+<h4>I'm privileged (cliché, I know).</h4>
 <p>
 This one is so cliché that I considered leaving it out, but I think it's one of my most important realizations. How effortlessly I could save enough money to fly and experience a foreign country, compared to how much more difficult it would be vice-versa &ndash; for a college graduate from Cambodia to backpack through Europe. 
 </p>
@@ -120,7 +119,7 @@ The final privilege is environment. An education at a renowned university doesn'
 
 
 
-<h4>Everyone is busy with their own shit</h4>
+<h4>Everyone is busy with their own shit.</h4>
 <p>
 People don't really think about you that often. I don't say this in a bitter, negative sense, quite the contrary. Realizing that the people in your life are independent humans with their own worries and agendas, not obsessing about you, takes the pressure off. They're busy with their own life. Do whatever <em>you</em> want and then take full responsibility for your decisions. Don't base a decision that you'll be stuck with 100% of the time on the expectations, sentiments or beliefs of other people. They'll rarely be impacted 1% of their time &ndash; they don't have the skin in the game. And only when you're content with your own decisions, your life, that's when you can be the best friend, brother or son and positively impact other people's lives.
 </p>
@@ -128,20 +127,49 @@ People don't really think about you that often. I don't say this in a bitter, ne
 
 
 
-<h4>Being aware of my bubbles</h4>
+<h4>Your environment influences what you view as important.</h4>
 <p>
-Your environment strongly influences what you view as important. In the last 4 years I nodded in admiring recognition when someone got published in IJRR instead of just RA-L; found it self-evident to dedicate months of my life to optimize not just step-timings, but the gait sequence; had hour-long discussions on the crucial importance of modelling the effects of leg motions on body accelerations. It was super exciting to work on these challenges, but I forgot how much of a niche I was really in. And I probably exaggerated to myself how much this research really matters to the world. Now I catapulted from the academic robotics bubble right into the backpacker-bubble, where dinner conversations revolved about breathtaking places you gotta see, local food you must try and that you don't want to go back home. What people consider important in this environment also has some justification. So I think sampling various bubbles results in the most holistic perspective on life.
+In the last 4 years I nodded in admiring recognition when someone got published in IJRR instead of just RA-L; found it self-evident to dedicate months of my life to optimize not just step-timings, but the gait sequence; had hour-long discussions on the crucial importance of modelling the effects of leg motions on body accelerations. It was super exciting to work on these challenges, but I forgot how much of a niche I was really in. And I probably exaggerated to myself how much this research really matters to the world. Now I catapulted from the academic robotics bubble right into the backpacker-bubble, where dinner conversations revolved about breathtaking places you gotta see, local food you must try and that you don't want to go back home. What people consider important in this environment also has some justification. So I think sampling various bubbles results in the most holistic perspective on life.
 </p>
 
 
-<h4>Appreciating health</h4>
+<h4>When you're not fit, everything sucks (especially when traveling).</h4>
 <p>
-When you're not fit, everything sucks (especially when traveling). That's why I avoided hangovers like the plague and rarely drank more than a few beers. But if 8 beer cause a terrible hangover, clearly signaling that my body is being destroyed by the alcohol, then one beer still harms my body 1/8 of the amount &ndash; even if I don't feel it. I'll only accept this health-hazard if the alcohol I'm drinking is delicious and there's no non-alcoholic alternative. Therefore I'm forever done with shots (yuck!) and beer and wine are mostly replaced by tasty fresh-juice. I doubt I'll find an alternative to a delicious mojito though. 
+ That's why I avoided hangovers like the plague and rarely drank more than a few beers. But if 8 beer cause a terrible hangover, clearly signaling that my body is being destroyed by the alcohol, then one beer still harms my body 1/8 of the amount &ndash; even if I don't feel it. I'll only accept this health-hazard if the alcohol I'm drinking is delicious and there's no non-alcoholic alternative. Therefore I'm forever done with shots (yuck!) and beer and wine are mostly replaced by tasty fresh-juice. I doubt I'll find an alternative to a delicious mojito though. 
 </p>
 
 <p>
 I also smoked occasionally at the beginning of the travels, as many backpackers seem to do. However, I realized that my main reason for smoking was that I enjoyed being able to stand somewhere doing nothing without looking stupid. It was an introvert thing. You're still connected to the people, you can watch them, you can think, but it's not awkward if everyone just silently pulls on that glowing stick. By working on my self-confidence, I can still be in these situations, but without a cigarette in my hand putting my health at risk.
 </p>
+
+<h4>I also learned...</h4>
+<p><em>"Strong opinions, loosely held."</em> &mdash;Somebody</p>
+
+<ul>
+	  <li>...the US was the bad guy in Vietnam war</li>
+    <li>...plastic waste in the ocean is a huge issue in Bali</li>
+    <li>...if I can choose a bunk bed, choose bottom</li>
+    <li>...sharing a room with other people is not a problem</li>
+    <li>...partying is not really fun for me anymore</li>
+    <li>...4 males can fit on one scooter</li>
+    <li>...even quiet people want to talk if one asks the right questions</li>
+    <li>...SE-Asia is safe. Not one criminal incident in six months</li>
+    <li>...eating with chopsticks</li>
+    <li>...using Google Maps for life</li>
+    <li>...obtaining VISA information</li>
+    <li>...judging a hostel through Hostelworld images</li>
+    <li>...expertly using "Bum-Guns" (lower between legs!)</li>
+    <li>...how to kick-start a scooter</li>
+    <li>...teaching english (<a href="https://www.workaway.info/">workaway.info</a>)</li>
+    <li>...Surfing, Yoga, Scuba diving, Photography, Jenga, Marco-Polo,...</li>
+</ul> 
+
+<figure class="figure">
+    <img src="/images/travel-summary/hanoi.jpg" class="img-thumbnail figure-img img-fluid rounded">
+    <figcaption class="figure-caption">
+    	It stood out how much more people hangout and socialize outside in SE-Asia than back home. Does money increase isolation? (Hanoi).
+    <figcaption>
+</figure>
 
 
 <h4>Was loneliness an issue?</h4>
@@ -167,37 +195,6 @@ Having internet on the road makes traveling sooo much easier &ndash; I can't eve
     <li><a href="https://www.go-jek.com/">GoJek</a> (Food): If in Bali, use this app to get dinner delivered to your home for only 1$ extra.
     </li>
 </ul>
-
-
-
-<h4>I also learned...</h4>
-<p><em>"Strong opinions, loosely held."</em> &mdash;Somebody</p>
-
-<figure class="figure">
-    <img src="/images/travel-summary/hanoi.jpg" class="img-thumbnail figure-img img-fluid rounded">
-    <figcaption class="figure-caption">
-    	It stood out how much more people hangout and socialize outside in SE-Asia than back home. Does money increase isolation? (Hanoi).
-    <figcaption>
-</figure>
-
-<ul>
-	  <li>...the US was the bad guy in Vietnam war</li>
-    <li>...plastic waste in the ocean is a huge issue in Bali</li>
-    <li>...if I can choose a bunk bed, choose bottom</li>
-    <li>...sharing a room with other people is not a problem</li>
-    <li>...partying is not really fun for me anymore</li>
-    <li>...4 males can fit on one scooter</li>
-    <li>...even quiet people want to talk if one asks the right questions</li>
-    <li>...SE-Asia is safe. Not one criminal incident in six months</li>
-    <li>...eating with chopsticks</li>
-    <li>...using Google Maps for life</li>
-    <li>...obtaining VISA information</li>
-    <li>...judging a hostel through Hostelworld images</li>
-    <li>...expertly using "Bum-Guns" (lower between legs!)</li>
-    <li>...how to kick-start a scooter</li>
-    <li>...teaching english (<a href="https://www.workaway.info/">workaway.info</a>)</li>
-    <li>...Surfing, Yoga, Scuba diving, Photography, Jenga, Marco-Polo,...</li>
-</ul> 
 
 
   `,
