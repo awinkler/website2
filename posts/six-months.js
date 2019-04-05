@@ -38,32 +38,31 @@ module.exports = {
 
 
 
-<h4>Be clear on your objectives (if any).</h4>
+<h4>There's a time and a place for everything.</h4>
 <p>
-For me there crystallized two modes of traveling (read "living"). The first mode is <em>Exploration</em>: Changing hostels every few days, doing tours, sightseeing. It's difficult to get a consistent sleeping routine, or stick to a workout schedule since there's so much to experience and everything is always changing. It's exhilarating, but it can also be exhausting. I limited these pure backpacking sections to a few weeks, and in that time go all-in: Socialize, participate, explore. But I don't even try to get work done or sleep long, that's not what these phases are for.
+My travels were divided into two different modes. The first mode was <em>Exploration</em>: Changing hostels every few days, doing tours, sightseeing. It's difficult to get a consistent sleeping routine or stick to a workout schedule. There's too much to experience and everything is always changing. It's exhilarating, but it can also be exhausting. Therefore, I limited these pure backpacking sections to a few weeks and didn't even try to get work done or sleep long &ndash; that's not what these times were for.
 </p>
 
 <p>
-The other mode is <em>Exploitation</em>. It's about dedicating time to getting something done, acquiring a specific goal, working on your health or just relaxing. For these tasks, it's ideal to stay in one place for multiple weeks, get into a routine, be strict with yourself. I did this in Bali where I spent 45 days learning surfing, web development and eating healthy.
+The other mode is <em>Exploitation</em>: Dedicating time to a specific goal or diving deep into a topic discovered in the exploration phase. In these phases, I found it ideal to stay in one place, get into a routine and be strict with myself. I find the cafes with solid wifi, where to get the best avocado toast and which sketchy shop rents the cheapest scooters. Now I can spend my energy exclusively on the task at hand. I did this in Bali where I spent 45 days learning surfing, web development and eating healthy.
 </p>
 
-
 <p>
-Of course, you can also mix these modes, but it's helpful to be clear in one's mind what (or if) you are currently trying to achieve. Then you don't have to have a bad conscience when you're not writing that essay while playing Jenga at the hostel, because you know there's a better time for that in an environment that's perfectly tailored to this objective.   
+Of course, sometimes I also switched these modes on an hourly basis. Still, it was helpful to keep them separate in my mind. Then I didn't have to have a bad conscience when I wasn't writing that post while playing Jenga at the hostel, because I knew there's a better suited time and place for this.   
 </p>
 
 <div class="card bg-light mb-3">
 <div class="card-body">
-    <h5>Most memorable Experiences</h5>
+    <h5>Some memorable Experiences</h5>
     <h6 class="subheader">
-        Many of them because of the great people involved.
+        ...many of them because of the great people involved.
     </h6>
     <ul>
-        <li>riding Nightbuses and Nighttrains</li>
         <li>10-day silent meditation camp <a href="/blog/living-like-a-buddhist-monk">(blog post)</a></li>
-        <li>eating Chicken Feet</li> 
-        <li>cross a street in Ho Chi Minh City</li>
+        <li>eating chicken feet</li> 
+        <li>crossing any street in Ho Chi Minh City</li>
         <li>delicious Bánh mi & Bánh bao</li>
+        <li>riding Nightbuses and Nighttrains</li>
         <li>motorbiking the Hai Van Pass</li> 
         <li>Paradise Cave in Phong Nha</li>
         <li>swimming with Bioluminescence</li>
@@ -168,7 +167,7 @@ I also smoked occasionally at the beginning of the travels, as many backpackers 
 
 <h4>Was loneliness an issue?</h4>
 <p>
-In hostels there are a bunch of solo travelers that want to connect, so that's wasn't an issue if you're confident enough to strike up a conversation. In hotels, with less of a social vibe, it was more difficult. But even then, being connected to friends and family over Skype, WhatsApp, etc. never really made me feel alone. Technology ftw!
+In hostels there are a bunch of solo travelers that want to connect, so that wasn't an issue if you're confident enough to strike up a conversation. In hotels, with less of a social vibe, it was more difficult. But even then, being connected to friends and family over Skype, WhatsApp, etc. never really made me feel alone. Technology ftw!
 </p>
 
 
