@@ -86,7 +86,7 @@ Of course, you can also mix these modes, but it's helpful to be clear in one's m
 
 <h4>They're doing it. Right now.</h4>
 <p>
-Traveling gave me a glimpse into a "Parallel Society". These are backpackers, volunteers, online-teachers, writers, influencers, digital nomads, spread throughout the world, living for a few months or years different than the rest. This brings other benefits and, of course, also other problems. But they prove that work, play and life can be structured differently and the lines between them blurred. For me, it was inspiring to see and talk to people that are living like this <em>right now</em>.
+Traveling also gave me a glimpse into a "Parallel Society". These are backpackers, volunteers, online-teachers, writers, influencers, digital nomads, spread throughout the world, living for a few months or years different than the rest. This brings other benefits and, of course, also other problems. But they prove that work, play and life can be structured differently and the lines between them blurred. For me, it was inspiring to see and talk to people that are living like this <em>right now</em>.
 </p>
 <figure class="figure">
     <img src="/images/travel-summary/scooter-gang.jpg" class="img-thumbnail figure-img img-fluid rounded">
@@ -100,7 +100,7 @@ Traveling gave me a glimpse into a "Parallel Society". These are backpackers, vo
 
 <h4>I'm privileged (cliché, I know).</h4>
 <p>
-This one is so cliché that I considered leaving it out, but I think it's one of my most important realizations. How effortlessly I could save enough money to fly and experience a foreign country, compared to how much more difficult it would be vice-versa &ndash; for a college graduate from Cambodia to backpack through Europe. 
+This thought has been reiterated so many times that I considered leaving it out, but I think it's one of my most important realizations. How effortlessly I could save enough money to fly and experience a foreign country, compared to how much more difficult it would be vice-versa &ndash; for a college graduate from Cambodia to backpack through Europe. 
 </p>
 
 <p>
@@ -119,13 +119,6 @@ The final privilege is environment. An education at a renowned university doesn'
 
 
 
-<h4>Everyone is busy with their own shit.</h4>
-<p>
-People don't really think about you that often. I don't say this in a bitter, negative sense, quite the contrary. Realizing that the people in your life are independent humans with their own worries and agendas, not obsessing about you, takes the pressure off. They're busy with their own life. Do whatever <em>you</em> want and then take full responsibility for your decisions. Don't base a decision that you'll be stuck with 100% of the time on the expectations, sentiments or beliefs of other people. They'll rarely be impacted 1% of their time &ndash; they don't have the skin in the game. And when you're content with your own decisions and life, that's when you can have the most positive impact on other people's lives as well.
-</p>
-
-
-
 
 <h4>Your environment influences what you view as important.</h4>
 <p>
@@ -135,31 +128,33 @@ In the last 4 years I nodded in admiring recognition when someone got published 
 
 <h4>When you're not fit, everything sucks (especially when traveling).</h4>
 <p>
- That's why I avoided hangovers like the plague and rarely drank more than a few beers. But if 8 beer cause a terrible hangover, clearly signaling that my body is being destroyed by the alcohol, then one beer still harms my body 1/8 of the amount &ndash; even if I don't feel it. I'll only accept this health-hazard if the alcohol I'm drinking is delicious and there's no non-alcoholic alternative. Therefore I'm forever done with shots (yuck!) and beer and wine are mostly replaced by tasty fresh-juice. I doubt I'll find an alternative to a delicious mojito though. 
+That’s why I avoided hangovers like the plague and rarely drank more than a few beers. But if eight beer cause a terrible hangover, signaling that my body is hurt by the alcohol, then one beer still harms my body 1/8 of the amount &ndash; even if I don’t feel it. I’ll only compromise my health if the alcohol I’m drinking is delicious and there’s no non-alcoholic alternative. Therefore I’m forever done with shots (yuck!) and beer and wine are mostly replaced by tasty fresh-juice. I doubt I’ll find an alternative to a delicious mojito though.
 </p>
 
 <p>
-I also smoked occasionally at the beginning of the travels, as many backpackers seem to do. However, I realized that my main reason for smoking was that I enjoyed being able to stand somewhere doing nothing without looking stupid. It was an introvert thing. You're still connected to the people, you can watch them, you can think, but it's not awkward if everyone just silently pulls on that glowing stick. By working on my self-confidence, I can still be in these situations, but without a cigarette in my hand putting my health at risk.
+I also smoked occasionally at the beginning of the travels, as many backpackers seem to do. However, I realized that my main reason for smoking was that I enjoyed being able to have some alone-time anywhere (at a raving party, during an uninteresting dinner conversation) &ndash; no questions asked. It was an introvert thing, an excuse. I've now convinced myself that I'll just take these times if I need them, even without smoking a cigarette.
 </p>
 
 <h4>I also learned...</h4>
-<p><em>"Strong opinions, loosely held."</em> &mdash;Somebody</p>
+<p>
+	<em>"Strong opinions, loosely held."</em> (Let's talk about it.)
+</p>
 
 <ul>
-	  <li>US was the bad guy in Vietnam war</li>
-    <li>plastic waste in the ocean is a huge issue in Bali</li>
-    <li>always choose bottom bunk bed</li>
-    <li>sharing a room with other people is not a problem</li>
-    <li>partying is not really fun for me anymore</li>
-    <li>4 males can fit on one scooter</li>
-    <li>even quiet people want to talk if one asks the right questions</li>
-    <li>SE-Asia is safe. Not one criminal incident in six months</li>
-    <li>eating with chopsticks</li>
-    <li>using Google Maps for life</li>
-    <li>judging a hostel through Hostelworld images</li>
-    <li>expertly using "Bum-Guns" (lower between legs!)</li>
-    <li>how to kick-start a scooter</li>
-    <li>teaching English (<a href="https://www.workaway.info/">workaway.info</a>)</li>
+	  <li>US was the bad guy in Vietnam war.</li>
+    <li>plastic waste in the ocean is a huge issue in Bali.</li>
+    <li>if choosing a bunk bed, choose the bottom one.</li>
+    <li>sharing a room with other people is not a problem.</li>
+    <li>I now enjoy a small get-together way more than a party.</li>
+    <li>4 males can fit on one scooter.</li>
+    <li>even quiet people want to talk if one asks the right questions.</li>
+    <li>SE-Asia seems so safe. I had no criminal incident in six months.</li>
+    <li>eating with chopsticks.</li>
+    <li>using Google Maps for life.</li>
+    <li>judging a hostel through Hostelworld images.</li>
+    <li>expertly using "Bum-Guns" (lower between legs!).</li>
+    <li>how to kick-start a scooter.</li>
+    <li>teaching English (<a href="https://www.workaway.info/">workaway.info</a>).</li>
     <li>Surfing, Yoga, Scuba diving, Photography, Jenga, Marco-Polo,...</li>
 </ul> 
 
@@ -173,7 +168,7 @@ I also smoked occasionally at the beginning of the travels, as many backpackers 
 
 <h4>Was loneliness an issue?</h4>
 <p>
-For me not so much. Sight-seeing and exploring I prefer with other people, so I tried to sign up for day tours or events directly at the hostel, that was the best way to connect with other travelers. Especially in hostels, there are a bunch of solo travelers that want to connect, so that's rarely an issue if you're confident enough to strike up a conversation. And even during time periods when I wasn't too sociable, being connected to friends and family over Skype, WhatsApp, etc never really made me feel alone. Technology ftw!
+In hostels there are a bunch of solo travelers that want to connect, so that's wasn't an issue if you're confident enough to strike up a conversation. In hotels, with less of a social vibe, it was more difficult. But even then, being connected to friends and family over Skype, WhatsApp, etc. never really made me feel alone. Technology ftw!
 </p>
 
 

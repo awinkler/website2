@@ -258,7 +258,8 @@ Extra large devices (large desktops, 1200px and up)*/
 
 /*====================Software===========================*/
 code {
-  all: inherit; /*disable element*/
+  /*all: inherit;*/
+  color: blue;
   display: inline;
 }
 
