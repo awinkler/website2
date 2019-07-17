@@ -10,13 +10,13 @@
   "author": "Alexander W. Winkler",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.18.3",
     "connect-flash": "^0.1.1",
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
-    "express-session": "^1.16.1",
+    "express": "^4.17.1",
+    "express-session": "^1.15.6",
     "method-override": "^3.0.0",
-    "mongoose": "^5.5.8",
+    "mongoose": "^5.4.9",
     "path": "^0.12.7"
   },
   "devDependencies": {},
