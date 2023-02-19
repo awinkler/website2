@@ -19,7 +19,9 @@
     "mongoose": "^5.6.4",
     "path": "^0.12.7"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/awinkler/website.git"

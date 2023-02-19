@@ -12,6 +12,7 @@ const indexRoute      = require("./routes/index");
       blogRoute       = require("./routes/blog");
 
 
+
 // connect to the DB (use low/long version string)
 const db = "website" 
 var urlLocal = "mongodb://localhost/" + db;
