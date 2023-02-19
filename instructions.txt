@@ -1,0 +1,12 @@
+# install nodejs
+sudo dnf module install nodejs:16
+
+# install dependencies
+npm install # run from inside folder
+npm start
+
+# clone website to gcloud terminal
+git clone https://github.com/4winkler/website.git
+
+# to update the website
+gcloud app deploy
