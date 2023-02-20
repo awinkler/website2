@@ -75,11 +75,12 @@ hr {
 
 /*==============Landing Page=============*/
 #sec-landing {
-  background-image: url(/images/robot_trim.jpg);
+  background-image: url(/images/quest_sim.png);
   background-position: bottom left;
   background-size: cover;
   background-repeat: no-repeat;
   height:100vh;
+  opacity: 0.3;
   position: relative;
   display: flex;
   justify-content: center;
