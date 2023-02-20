@@ -1,7 +1,7 @@
 #myFooter {
     line-height: 1.6;
     color: white;
-    padding-top: 8em;
+    padding-top: 1em;
     padding-bottom: 1em;
     text-align: left;
     background: #F0F2F0;  /* fallback for old browsers */
@@ -54,6 +54,12 @@
 #myFooter a {
     color: #d2d1d1;
     text-decoration: none;
+}
+
+#nocolor a {
+    color: #0f0f0f;
+    text-decoration: none;
+    font-size: 18px;
 }
 
 #myFooter a:hover,
