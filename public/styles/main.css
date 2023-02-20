@@ -139,15 +139,15 @@ hr {
 /*===============Arrow down animation=================*/
 .arrow {
   text-align: center;
-  margin: 10px 0;
-  font-size: 10px;
-  position: absolute;
-  bottom: 10%;
-  left: 50%;
+  /* margin: 10px 0; */
+  font-size: 12px;
+  /* position: absolute; */
+  /* bottom: 10%; */
+  /* left: 50%; */
 }
 
 .arrow a {
-  color: rgba(0,0,0,0.5);
+  color: rgba(14, 13, 13, 0.5);
 }
 
 .arrow a:hover {
@@ -365,10 +365,6 @@ a.nostyle:link, a.nostyle:visited {
   -webkit-overflow-scrolling: touch;
 }
 
-/*.scrolling-wrapper-flexbox::-webkit-scrollbar {*/
-  /*display: none;*/
-/*}*/
-
 
 /*so image is cut to fit fixed aspect ration*/
 .img-prev img {
@@ -377,6 +373,16 @@ a.nostyle:link, a.nostyle:visited {
   height: 200px;
   object-fit: cover;
   object-position: 50% 30%;
+  border-top-left-radius: 0.5em;
+  border-top-right-radius: 0.5em;
+}
+
+.img-prev-phd img {
+  display: block;
+  /* width: 50%; */
+  height: 100px;
+  object-fit: contain;
+  /* object-position: 100% 100%; */
   border-top-left-radius: 0.5em;
   border-top-right-radius: 0.5em;
 }
