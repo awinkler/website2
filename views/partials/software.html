@@ -1,115 +1,140 @@
 <section id="sec-software">
+  <div class="container">
+    <h2 class="display-4">Software</h2>
 
+    <p>
+      All code is published on
+      <a href="https://github.com/awinkler" title="Github"
+        ><i class="fab fa-github"></i> Github</a
+      >.
+    </p>
 
-<div class="container">
-  <h2 class="display-4">
-    Software
-  </h2>
+    <div id="sec-blog" class="scrolling-wrapper-flexbox">
+      <!-- towr https://github.com/ethz-adrl/towr-->
+      <div
+        class="post-preview clickable"
+        data-location="https://github.com/ethz-adrl/towr"
+      >
+        <div class="img-prev-phd">
+          <img class="card-img-top" src="/images/towr_logo.png" />
+        </div>
+        <div class="card-body">
+          <p style="text-align: justify">
+            Light-weight and extensible C++ library for trajectory optimization
+            for legged robots.
+          </p>
+          <a
+            class="github-button"
+            href="https://github.com/ethz-adrl/towr"
+            data-show-count="true"
+            aria-label="Star ethz-adrl/towr on GitHub"
+            >Star
+          </a>
+          <a
+            class="github-button"
+            href="https://github.com/ethz-adrl/towr/archive/master.zip"
+            data-icon="octicon-cloud-download"
+            aria-label="Download ethz-adrl/towr on GitHub"
+            >Download
+          </a>
+        </div>
+        <div class="card-footer">
+          <p class="bash">
+            $ apt install ros-melodic-towr-ros
+            <button
+              class="btn btn-copy btn-hide"
+              data-toggle="tooltip"
+              data-clipboard-text="sudo apt install ros-melodic-towr-ros"
+            >
+              <i class="far fa-copy"></i>
+            </button>
+          </p>
+        </div>
+      </div>
 
-  <p>
-  All code is published on my <a href="https://github.com/awinkler" title="Github"><i class="fab fa-github"></i> Github</a>.
-    The approach described in the above paper is implemented by <code>towr</code>, which uses the NLP solver interface <code>ifopt</code> to formulate the problem independent of the solver. The ROS package <code>xpp</code> is used to visualize motions.
-</p>
+      <!-- ifopt https://github.com/ethz-adrl/ifopt-->
+      <div
+        class="post-preview clickable"
+        data-location="https://github.com/ethz-adrl/ifopt"
+      >
+        <div class="img-prev-phd">
+          <img class="card-img-top" src="/images/ifopt_logo.png" />
+        </div>
+        <div class="card-body">
+          <p style="text-align: justify">
+            Eigen-based, light-weight C++ Interface to NLP Solvers (Ipopt,
+            Snopt).
+          </p>
+          <a
+            class="github-button"
+            href="https://github.com/ethz-adrl/ifopt"
+            data-show-count="true"
+            aria-label="Star ethz-adrl/ifopt on GitHub"
+            >Star
+          </a>
+          <a
+            class="github-button"
+            href="https://github.com/ethz-adrl/ifopt/archive/master.zip"
+            data-icon="octicon-cloud-download"
+            aria-label="Download ethz-adrl/ifopt on GitHub"
+            >Download
+          </a>
+        </div>
+        <div class="card-footer">
+          <p class="bash">
+            $ apt install ros-melodic-ifopt
+            <button
+              class="btn btn-copy btn-hide"
+              data-toggle="tooltip"
+              data-clipboard-text="sudo apt install ros-melodic-ifopt"
+            >
+              <i class="far fa-copy"></i>
+            </button>
+          </p>
+        </div>
+      </div>
 
-
-<div class="container">
-<div class="row">
-  <!-- towr https://github.com/ethz-adrl/towr-->
-  <div class="col-lg-4 p-1">
-  <div class="card">
-    <a href="https://github.com/ethz-adrl/towr" title="Go to Github">
-      <img class="card-img-top" src="/images/towr_logo.png">
-    </a>
-    <div class="card-body">
-      <!-- <h5 class="card-title">TOWR</h5> -->
-      <p class="card-text">Light-weight and extensible C++ library for trajectory optimization for legged robots.</p>
-
-      <a class="github-button" href="https://github.com/ethz-adrl/towr" data-show-count="true" aria-label="Star ethz-adrl/towr on GitHub">Star
-      </a> 
-      <a class="github-button" href="https://github.com/ethz-adrl/towr/archive/master.zip" data-icon="octicon-cloud-download" aria-label="Download ethz-adrl/towr on GitHub">Download
-      </a>
-
+      <!-- xpp  http://wiki.ros.org/xpp -->
+      <div
+        class="post-preview clickable"
+        data-location="http://wiki.ros.org/xpp"
+      >
+        <div class="img-prev-phd">
+          <img class="card-img-top" src="/images/xpp_logo.png" />
+        </div>
+        <div class="card-body">
+          <p style="text-align: justify">
+            Visualization of legged robots, forces, support areas, ZMP, CoM etc.
+            in ROS rviz.
+          </p>
+          <a
+            class="github-button"
+            href="https://github.com/leggedrobotics/xpp"
+            data-show-count="true"
+            aria-label="Star leggedrobotics/xpp on GitHub"
+            >Star</a
+          >
+          <a
+            class="github-button"
+            href="https://github.com/leggedrobotics/xpp/archive/master.zip"
+            data-icon="octicon-cloud-download"
+            aria-label="Download leggedrobotics/xpp on GitHub"
+            >Download</a
+          >
+        </div>
+        <div class="card-footer">
+          <p class="bash">
+            $ apt install ros-melodic-xpp
+            <button
+              class="btn btn-copy btn-hide"
+              data-toggle="tooltip"
+              data-clipboard-text="sudo apt install ros-melodic-xpp"
+            >
+              <i class="far fa-copy"></i>
+            </button>
+          </p>
+        </div>
+      </div>
     </div>
-    <div class="card-footer">
-<!--       <small class="text-muted">
-        The main output of my PhD. Formulates the legged robot specific optimization problem.
-      </small> -->
-
-        <p class="bash">
-          $ sudo apt install ros-melodic-towr-ros
-          <button class="btn btn-copy btn-hide" data-toggle="tooltip" data-clipboard-text="sudo apt install ros-melodic-towr-ros">
-            <i class="far fa-copy"></i>
-          </button>
-        </p>
-
-    </div>
-
   </div>
-  </div>
-
-
-  <!-- ifopt https://github.com/ethz-adrl/ifopt-->
-  <div class="col-lg-4 p-1">
-  <div class="card">
-    <a href="https://github.com/ethz-adrl/ifopt" title="Go to Github">
-      <img class="card-img-top" src="/images/ifopt_logo.png">
-    </a>
-    <div class="card-body">
-      <!-- <h5 class="card-title">IFOPT</h5> -->
-      <p class="card-text">Eigen-based, light-weight C++ Interface to NLP Solvers (Ipopt, Snopt).</p>
-
-      <a class="github-button" href="https://github.com/ethz-adrl/ifopt" data-show-count="true" aria-label="Star ethz-adrl/ifopt on GitHub">Star
-      </a> 
-      <a class="github-button" href="https://github.com/ethz-adrl/ifopt/archive/master.zip" data-icon="octicon-cloud-download" aria-label="Download ethz-adrl/ifopt on GitHub">Download
-      </a>
-
-    </div>
-    <div class="card-footer">
-<!--       <small class="text-muted">Generic optimization independent of legged robots. Solved the problem formulated by towr.
-      </small> -->
-
-      <p class="bash"> 
-        $ sudo apt install ros-melodic-ifopt
-        <button class="btn btn-copy btn-hide" data-toggle="tooltip" data-clipboard-text="sudo apt install ros-melodic-ifopt">
-            <i class="far fa-copy"></i>
-        </button>
-      </p>
-    </div>
-  </div>
-  </div>
-
-  <!-- xpp  http://wiki.ros.org/xpp -->
-  <div class="col-lg-4 p-1">
-  <div class="card">
-    <a href="http://wiki.ros.org/xpp" title="Go to Github">
-      <img class="card-img-top" src="/images/xpp_logo.png">
-    </a>
-    <div class="card-body">
-      <!-- <h5 class="card-title">XPP</h5> -->
-      <p class="card-text">Visualization of legged robots, forces, support areas, ZMP, CoM etc. in ROS rviz.</p>
-
-      <a class="github-button" href="https://github.com/leggedrobotics/xpp" data-show-count="true" aria-label="Star leggedrobotics/xpp on GitHub">Star</a>  
-
-      <a class="github-button" href="https://github.com/leggedrobotics/xpp/archive/master.zip" data-icon="octicon-cloud-download" aria-label="Download leggedrobotics/xpp on GitHub">Download</a>
-
-    </div>
-    <div class="card-footer">
-<!--       <small class="text-muted">
-        Visualization to see what the solvers came up with before sending to the robot.
-      </small> -->
-
-      <p class="bash">
-        $ sudo apt install ros-melodic-xpp
-        <button class="btn btn-copy btn-hide" data-toggle="tooltip" data-clipboard-text="sudo apt install ros-melodic-xpp">
-            <i class="far fa-copy"></i>
-        </button>
-      </p>
-
-    </div>
-  </div>
-  </div>
-
-</div> <!-- .row -->
-</div>
-</div>
-</section> <!-- software -->
+</section>

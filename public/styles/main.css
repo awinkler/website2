@@ -49,7 +49,7 @@ hr {
 
 /*==============Navbar================*/
 .navbar {
-  background-color: rgba(55, 74, 76, 0.98);
+  background-color: rgba(68, 68, 68, 0.98);
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -57,7 +57,7 @@ hr {
 }
 
 .navbar-bg {
-  background-color: rgba(55, 74, 76, 0.98);
+  background-color: rgba(73, 73, 73, 0.98);
   transition: all 1s;
 }
 
@@ -325,14 +325,6 @@ code {
 
 
 /*================Blog preview====================*/
-/*#sec-publications {
-  background-image: url(https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Epic-Star-Wars-HD-Backgrounds-PIC-WPB006345.jpg);
-  background-image: url(https://www.wallpaperflare.com/static/610/258/513/minimalism-animals-birds-white-wallpaper.jpg);
-  background-size: cover;
-  background-position: 50% 50%;
-  background-repeat: no-repeat;
-  color: white;
-}*/
 
 /*So anchor on whole card doesn't change style*/
 a.nostyle:link, a.nostyle:visited {
