@@ -540,3 +540,33 @@ img.bibbase_icon:hover {
 .bibbase_paper_content {
     font-size: smaller;
 }
+
+
+
+/* for adding bibtex to my projects */
+.bibtex-container {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  background-color: #dddbdb;
+  font-family: monospace;
+  width: auto;
+  max-width: 100%;
+  position: relative;
+  border-radius: 0.5em;
+}
+
+.bibtex-box {
+  white-space: pre; /* Allows text wrapping */
+  margin: 0;
+  overflow-x: auto; /* Adds a horizontal scrollbar when the content is too wide */
+}
+
+.names-container {
+  display: flex;
+  justify-content: center;
+}
+
+.name {
+  margin: 0 2.0rem; /* Adjust the values to increase or decrease the spacing */
+}
+

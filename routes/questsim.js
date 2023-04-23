@@ -3,7 +3,7 @@ const express         = require('express'),
 
 // setup routes
 router.get('/', function(req, res){
-	res.render('quest');
+	res.render('questsim');
 });
 
 module.exports = router;

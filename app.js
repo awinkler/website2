@@ -10,7 +10,7 @@ const express         = require('express'),
 
 const indexRoute      = require("./routes/index");
       blogRoute       = require("./routes/blog");
-      questRoute       = require("./routes/quest");
+      questsimRoute       = require("./routes/questsim");
 
 
 
@@ -51,7 +51,7 @@ app.use((req, res, next) => {
 // use routes
 app.use("/", indexRoute);
 app.use("/blog", blogRoute);
-app.use("/quest", questRoute);
+app.use("/questsim", questsimRoute);
 
 
 
