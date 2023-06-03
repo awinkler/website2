@@ -570,3 +570,11 @@ img.bibbase_icon:hover {
   margin: 0 2.0rem; /* Adjust the values to increase or decrease the spacing */
 }
 
+
+@media (max-width: 600px) {
+  .col-12 {
+    margin-bottom: 20px;
+  }
+}
+
+

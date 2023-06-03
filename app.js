@@ -10,12 +10,13 @@ const express         = require('express'),
 
 const indexRoute      = require("./routes/index");
       blogRoute       = require("./routes/blog");
-      questsimRoute       = require("./routes/questsim");
+      questsimRoute   = require("./routes/questsim");
+      questenvsimRoute = require("./routes/questenvsim");
 
 
 
 // connect to the DB (use low/long version string)
-const db = "website" 
+const db = "website"
 var urlLocal = "mongodb://localhost/" + db;
 var urlAtlas = "mongodb://alex:veryeasy@cluster0-shard-00-00-mw8ok.gcp.mongodb.net:27017,cluster0-shard-00-01-mw8ok.gcp.mongodb.net:27017,cluster0-shard-00-02-mw8ok.gcp.mongodb.net:27017/"+ db + "?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true"
 mongoose.connect(urlAtlas, { useNewUrlParser: true });
@@ -52,6 +53,7 @@ app.use((req, res, next) => {
 app.use("/", indexRoute);
 app.use("/blog", blogRoute);
 app.use("/questsim", questsimRoute);
+app.use("/questenvsim", questenvsimRoute);
 
 
 

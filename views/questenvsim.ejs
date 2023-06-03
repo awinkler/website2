@@ -1,0 +1,129 @@
+<% include ./partials/header %> 
+
+<div style="padding-top: 100px; padding-bottom: 50px;">
+<div class="container">
+
+
+    <h3 style="text-align: center">
+      QuestEnvSim: Environment-Aware Simulated Motion Tracking from Sparse Sensors
+    </h3> 
+
+
+    <h6 style="text-align: center; margin-top: 1.0em">
+    <div class="names-container">
+      <span class="name"><a href="https://s2023.siggraph.org/presenter/?uid=944553">Sunmin Lee</a></span>
+      <span class="name"><a href="https://sebastianxstarke.com/">Sebastian Starke</a></span>
+      <span class="name"><a href="http://yutingye.info/">Yuting Ye</a></span>
+      <span class="name"><a href="https://sites.google.com/view/jungdam">Jungdam Won</a></span>
+      <span class="name"><a href="https://alex-winkler.com/">Alexander Winkler</a></span>
+    </div>
+    </h6>
+
+    <h6 style="text-align: center; margin-top: 1.0em">
+      Siggraph 2023
+    </h6> 
+
+    <h6 style="text-align: center; margin-top: 1.0em">
+      <a href="https://arxiv.org/abs/2209.09391">[PDF (coming soon)]</a>
+    </h6> 
+
+
+    <img src="/images/questenvsim.png" class="img-fluid rounded" style="border-radius: 15px;">
+
+
+    <div style="margin-top: 4.0em">
+      <h4 style="text-align: center">
+        Abstract
+      </h4> 
+      <p>
+        Replicating a user's pose from only wearable sensors is important for many AR/VR applications. Most existing methods for motion tracking avoid environment interaction apart from foot-floor contact due to their complex dynamics and hard constraints. However, in daily life people regularly interact with their environment, e.g. by sitting on a couch or leaning on a desk. Using Reinforcement Learning, we show that headset and controller pose, if combined with physics simulation and environment observations can generate realistic full-body poses even in highly constrained environments. The physics simulation automatically enforces the various constraints necessary for realistic poses, instead of manually specifying them as in many kinematic approaches. These hard constraints allow us to achieve high-quality interaction motions without typical artifacts such as penetration or contact sliding. We discuss three features, the environment representation, the contact reward and scene randomization, crucial to the performance of the method. We demonstrate the generality of the approach through various examples, such as sitting on chairs, a couch and boxes, stepping over boxes, rocking a chair and turning an office chair. We believe these are some of the highest-quality results achieved for motion tracking from sparse sensor with scene interaction.
+      </p>
+    </div>
+
+    <div style="margin-top: 4.0em">
+      <h4 style="text-align: center">
+        Architecture
+      </h4> 
+      <div class="col-12 col-md-11 m-0 p-0 mx-auto text-center"">
+        <img src="/images/questenvsim_architecture.png">
+      </div>
+    </div>
+
+    <div style="margin-top: 4.0em">
+      <h4 style="text-align: center">
+        Results
+      </h4>
+      <img src="/images/questenvsim_results.png" class="img-fluid rounded" style="border-radius: 15px;">
+    </div>
+
+
+    <!-- <div class="container" style="margin-top: 4.0em">
+      <div class="row">
+        <div class="col-12 col-md-6 text-center">
+          <div class="embed-responsive embed-responsive-16by9 my-youtube shadow">
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/CkTHsz6Ldas?controls=0"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </div>
+        </div>
+    
+        <div class="col-12 col-md-6 text-center">
+          <div class="embed-responsive embed-responsive-16by9 my-youtube shadow">
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/DmjsNnBhWdA?controls=0"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </div>
+        </div>
+      </div>
+    </div> -->
+    
+
+
+
+
+
+
+
+
+
+    <div style="margin-top: 5.0em">
+      <h4 style="text-align: center">
+        Bibtex
+      </h4> 
+      <div class="bibtex-container">
+        <pre class="bibtex-box">
+  @inproceedings{10.1145/3588432.3591504,
+      author = {Lee, Sunmin and Starke, Sebastian and Ye, Yuting and Won, Jungdam and Winkler, Alexander},
+      title = {QuestEnvSim: Environment-Aware Simulated Motion Tracking from Sparse Sensors},
+      year = {2023},
+      doi = {10.1145/3588432.3591504},
+      booktitle = {SIGGRAPH 2023 Conference Papers},
+      location = {Los Angeles, USA},
+      }
+  }</pre>
+      </div>
+    </div>
+
+
+
+
+</div>
+</div>
+
+
+</body>
+</html>
+
+
