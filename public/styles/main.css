@@ -564,10 +564,11 @@ img.bibbase_icon:hover {
 .names-container {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
 }
 
 .name {
-  margin: 0 2.0rem; /* Adjust the values to increase or decrease the spacing */
+  margin: 0 1.0rem; /* Adjust the values to increase or decrease the spacing */
 }
 
 
