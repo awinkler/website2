@@ -50,6 +50,7 @@ hr {
 /*==============Navbar================*/
 .navbar {
   background-color: rgba(68, 68, 68, 0.98);
+  padding: 0.0rem 1rem; /* Adjust these values to increase or decrease the height */
 }
 
 .navbar-dark .navbar-nav .nav-link {
