@@ -11,7 +11,7 @@ const express         = require('express'),
 const indexRoute      = require("./routes/index");
       blogRoute       = require("./routes/blog");
       questsimRoute   = require("./routes/questsim");
-      questenvsimRoute = require("./routes/questenvsim");
+      // questenvsimRoute = require("./routes/questenvsim");
 
 
 
@@ -53,7 +53,7 @@ app.use((req, res, next) => {
 app.use("/", indexRoute);
 app.use("/blog", blogRoute);
 app.use("/questsim", questsimRoute);
-app.use("/questenvsim", questenvsimRoute);
+// app.use("/questenvsim", questenvsimRoute);
 
 
 
