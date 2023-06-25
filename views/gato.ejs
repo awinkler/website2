@@ -1,0 +1,144 @@
+<% include ./partials/header %> 
+
+<div style="padding-top: 100px; padding-bottom: 50px;">
+<div class="container">
+
+
+    <h3 style="text-align: center">
+      Gato: Gait and Trajectory Optimization for legged systems through Phase-based Endeffector Parameterization
+    </h3> 
+
+    <h6 style="text-align: center; margin-top: 1.0em">
+    <div class="names-container">
+      <span class="name">Alexander Winkler</span>
+      <span class="name">Dario Bellicoso</span>
+      <span class="name">Marco Hutter</span>
+      <span class="name">Jonas Buchli</span>
+    </div>
+    </h6>
+
+    <h6 style="text-align: center; margin-top: 1.0em">
+      <em> IEEE Robotics and Automation Letters (RA-L) 2018</em>
+    </h6> 
+
+    <h6 style="text-align: center; margin-top: 1.0em">
+      [<a href="https://storage.googleapis.com/concise-hue-230505.appspot.com/pdfs/18-ral-winkler.pdf">PDF</a>]   
+      [<a href="https://github.com/ethz-adrl/towr">Code</a>]
+      [<a href="https://ieeexplore.ieee.org/document/8283570">Link</a>]
+    </h6> 
+
+
+    <div class="container" style="margin-top: 4.0em">
+      <div class="row">
+        <div class="col-12 col-md-6 text-center">
+          <div class="embed-responsive embed-responsive-16by9 my-youtube shadow">
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/0jE46GqzxMM?controls=0"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </div>
+        </div>
+    
+        <div class="col-12 col-md-6 text-center">
+          <div class="embed-responsive embed-responsive-16by9 my-youtube shadow">
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/KhWuLvb934g?controls=0"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+
+
+
+
+
+    <div style="margin-top: 4.0em">
+      <h4 style="text-align: center">
+        Abstract
+      </h4> 
+      <p>
+        We present a single Trajectory Optimization formulation for legged locomotion that automatically determines
+the gait-sequence, step-timings, footholds, swing-leg motions and
+6D body motion over non-flat terrain, without any additional
+modules. Our phase-based parameterization of feet motion and
+forces allows to optimize over the discrete gait sequence using
+only continuous decision variables. The system is represented
+using a simplified Centroidal dynamics model that is influenced
+by the feet’s location and forces. We explicitly enforce friction
+cone constraints, depending on the shape of the terrain. The
+NLP solver generates highly dynamic motion-plans with full
+flight-phases for a variety of legged systems with arbitrary
+morphologies in an efficient manner. We validate the feasibility
+of the generated plans in simulation and on the real quadruped
+robot ANYmal. Additionally, the entire solver software TOWR
+used to generate these motions is made freely available
+      </p>
+    </div>
+
+
+    <div style="margin-top: 4.0em">
+      <h4 style="text-align: center">
+        Images
+      </h4> 
+      <p>
+      <div class="row">
+        <div class="col-12 col-md-5 m-0 p-0 mx-auto text-center">
+          <img src="/images/gato1.png" class="img-fluid">
+        </div>
+        <div class="col-12 col-md-4 m-0 p-0 mx-auto text-center">
+          <img src="/images/gato2.png" class="img-fluid">
+        </div>
+      </div>
+      </p>
+    </div>
+
+
+
+    <div style="margin-top: 5.0em">
+      <h4 style="text-align: center">
+        Bibtex
+      </h4> 
+      <div class="bibtex-container">
+        <pre class="bibtex-box">
+@article{winkler18,
+            author    = {Winkler, Alexander W and Bellicoso, Dario C and Hutter, Marco and Buchli, Jonas},
+            title     = {Gait and Trajectory Optimization for Legged Systems through Phase-based End-Effector Parameterization},
+            journal   = {IEEE Robotics and Automation Letters (RA-L)},
+            year      = {2018},
+            month     = {July},
+            pages     = {1560-1567},
+            doi       = {10.1109/LRA.2018.2798285},
+            volume    = {3},
+            keywords  = {legged locomotion, trajectory optimization}
+}
+</pre>
+      </div>
+    </div>
+
+
+
+
+</div>
+</div>
+
+
+</body>
+</html>
+
+<% include ./partials/footer%>
+
+

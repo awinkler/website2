@@ -579,4 +579,26 @@ img.bibbase_icon:hover {
   }
 }
 
+.paper-img {
+  border: 1px solid rgb(100, 100, 100);
+  border-radius: 5px;
+}
+
+.pub-padding {
+  padding: 0.5em; /* Adjust the padding as per your needs */
+}
+
+
+.pub-padding-out {
+  padding: 0.0em; /* Adjust the padding as per your needs */
+}
+
+/* Increase padding for screens smaller than 600px */
+@media (max-width: 600px) {
+  .pub-padding-out {
+    padding: 1.0em; /* Adjust this to the desired padding size on small screens */
+  }
+}
+  
+
 
