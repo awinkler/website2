@@ -596,9 +596,32 @@ img.bibbase_icon:hover {
 /* Increase padding for screens smaller than 600px */
 @media (max-width: 600px) {
   .pub-padding-out {
-    padding: 1.0em; /* Adjust this to the desired padding size on small screens */
+    padding: 0.4em; /* Adjust this to the desired padding size on small screens */
   }
 }
+
+
+
+.divider-with-text {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: rgb(170, 170, 170);
+    margin-top: 0.65em;
+}
+.divider-with-text::before,
+.divider-with-text::after {
+    content: '';
+    flex: 1;
+    border-bottom: 0.5px solid rgb(170, 170, 170);
+}
+.divider-with-text::before {
+    margin-right: .25em;
+}
+.divider-with-text::after {
+    margin-left: .25em;
+}
+
   
 
 
