@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/awinkler/website.git"
+    "url": "git+https://github.com/awinkler/website2.git"
   },
   "keywords": [
     "website",
@@ -33,7 +33,7 @@
     "nodejs"
   ],
   "bugs": {
-    "url": "https://github.com/awinkler/website/issues"
+    "url": "https://github.com/awinkler/website2/issues"
   },
   "homepage": "https://alex-winkler.com"
 }
