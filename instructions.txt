@@ -6,7 +6,7 @@ npm install # run from inside folder
 npm start
 
 # clone website to gcloud terminal
-git clone https://github.com/4winkler/website.git
+git clone https://github.com/awinkler/website2.git
 
 # to update the website
 gcloud app deploy
