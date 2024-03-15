@@ -8,5 +8,8 @@ npm start
 # clone website to gcloud terminal
 git clone https://github.com/awinkler/website2.git
 
+# go into the folder
+cd website2
+
 # to update the website
 gcloud app deploy
