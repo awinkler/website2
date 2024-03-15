@@ -1,5 +1,5 @@
 # install nodejs
-sudo dnf module install nodejs:16
+sudo dnf module install nodejs:20
 
 # install dependencies
 npm install # run from inside folder
